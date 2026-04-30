@@ -1,0 +1,1461 @@
+date,channel,data_source,campaign_name,spend_usd,impressions,clicks,conversions,ctr_pct,cpc_usd,cpm_usd,video_views
+2023-01-01,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,48422.0,132762,14200,1345,10.7,3.41,364.73,13520
+2023-01-01,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,39917.0,77166,8950,968,11.6,4.46,517.29,0
+2023-01-01,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,10960.37,40405,2179,155,5.39,5.03,271.26,4260
+2023-01-01,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,32746,2526,249,7.72,0.0,0.0,0
+2023-01-02,Programmatic,StackAdapt,Business-focused zero tolerance architecture,38626.0,104984,10850,890,10.34,3.56,367.92,13783
+2023-01-02,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,44938.78,93780,10649,1017,11.36,4.22,479.19,0
+2023-01-02,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,5659.36,52793,1141,76,2.16,4.96,107.2,4704
+2023-01-02,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,45039,4667,499,10.36,0.0,0.0,0
+2023-01-03,Programmatic,StackAdapt,Centralized modular throughput,32810.32,92269,9736,879,10.55,3.37,355.59,13778
+2023-01-03,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,38478.0,74571,8745,851,11.73,4.4,515.99,0
+2023-01-03,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,8595.48,45192,1726,113,3.82,4.98,190.2,9749
+2023-01-03,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,40689,4173,457,10.26,0.0,0.0,0
+2023-01-04,Programmatic,StackAdapt,Centralized modular throughput,40498.16,140862,12347,1032,8.77,3.28,287.5,17684
+2023-01-04,Paid Search,Google Search Ads 360,Integrated dedicated contingency,37856.34,95964,9417,1086,9.81,4.02,394.48,0
+2023-01-04,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,11430.0,48872,1905,110,3.9,6.0,233.88,4419
+2023-01-04,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,47999,4602,410,9.59,0.0,0.0,0
+2023-01-05,Programmatic,StackAdapt,Automated uniform software,48761.04,111716,11864,1166,10.62,4.11,436.47,10095
+2023-01-05,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,31780.04,77985,7289,848,9.35,4.36,407.51,0
+2023-01-05,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,4756.73,41106,913,55,2.22,5.21,115.72,7487
+2023-01-05,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,34885,3505,340,10.05,0.0,0.0,0
+2023-01-06,Programmatic,StackAdapt,Automated uniform software,49681.68,112117,12088,1132,10.78,4.11,443.12,16720
+2023-01-06,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,33137.72,86870,8932,804,10.28,3.71,381.46,0
+2023-01-06,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,8689.27,37308,1577,96,4.23,5.51,232.91,7724
+2023-01-06,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,30981,2522,266,8.14,0.0,0.0,0
+2023-01-07,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,35808.63,89091,8347,689,9.37,4.29,401.93,17206
+2023-01-07,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,41650.92,94132,10932,1252,11.61,3.81,442.47,0
+2023-01-07,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,13179.45,55144,2143,152,3.89,6.15,239.0,6866
+2023-01-07,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,30170,2236,214,7.41,0.0,0.0,0
+2023-01-08,Programmatic,StackAdapt,Centralized modular throughput,46464.04,146982,12524,1155,8.52,3.71,316.12,16328
+2023-01-08,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,36170.24,90764,9088,1081,10.01,3.98,398.51,0
+2023-01-08,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,16108.2,57517,2565,159,4.46,6.28,280.06,12351
+2023-01-08,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,38565,3273,301,8.49,0.0,0.0,0
+2023-01-09,Programmatic,StackAdapt,Automated uniform software,30248.26,89015,9194,846,10.33,3.29,339.81,10593
+2023-01-09,Paid Search,Google Search Ads 360,Integrated dedicated contingency,43127.67,105913,10293,965,9.72,4.19,407.2,0
+2023-01-09,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,9790.43,57990,1651,112,2.85,5.93,168.83,6568
+2023-01-09,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,39742,3167,322,7.97,0.0,0.0,0
+2023-01-10,Programmatic,StackAdapt,Automated uniform software,39009.6,123550,10836,1097,8.77,3.6,315.74,13110
+2023-01-10,Paid Search,Google Search Ads 360,Networked value-added time-frame,32044.34,82860,8926,987,10.77,3.59,386.73,0
+2023-01-10,Paid Social,Facebook,Facebook B2B Decision Makers,7534.24,54398,1519,103,2.79,4.96,138.5,9613
+2023-01-10,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,38762,3971,346,10.25,0.0,0.0,0
+2023-01-11,Programmatic,StackAdapt,Centralized modular throughput,37329.6,94073,10605,1086,11.27,3.52,396.82,16217
+2023-01-11,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,43131.15,104498,11145,1180,10.67,3.87,412.75,0
+2023-01-11,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,12172.16,41407,2128,154,5.14,5.72,293.96,5277
+2023-01-11,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,34855,3277,359,9.4,0.0,0.0,0
+2023-01-12,Programmatic,StackAdapt,Centralized modular throughput,51760.39,145593,15179,1222,10.43,3.41,355.51,29962
+2023-01-12,Paid Search,Google Search Ads 360,Profound intangible policy,45286.29,113757,10269,949,9.03,4.41,398.1,0
+2023-01-12,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,6960.72,46672,1196,78,2.56,5.82,149.14,7993
+2023-01-12,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,38831,3630,327,9.35,0.0,0.0,0
+2023-01-13,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,50577.84,121630,12708,1291,10.45,3.98,415.83,19407
+2023-01-13,Paid Search,Google Search Ads 360,Profound intangible policy,30287.28,77266,7806,761,10.1,3.88,391.99,0
+2023-01-13,Paid Social,Facebook,FB Lead Gen — Mid-Market,11297.0,58516,1975,143,3.38,5.72,193.06,11192
+2023-01-13,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,36943,3253,318,8.81,0.0,0.0,0
+2023-01-14,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,42820.42,115463,10786,850,9.34,3.97,370.86,12100
+2023-01-14,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,49801.08,103924,12327,1455,11.86,4.04,479.21,0
+2023-01-14,Paid Social,Facebook,FB Lead Gen — Mid-Market,12502.38,37990,1994,126,5.25,6.27,329.1,8164
+2023-01-14,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,40333,3096,292,7.68,0.0,0.0,0
+2023-01-15,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,46538.9,120147,10823,1012,9.01,4.3,387.35,21319
+2023-01-15,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,49737.58,111061,10319,1120,9.29,4.82,447.84,0
+2023-01-15,Paid Social,Facebook,Facebook B2B Decision Makers,11097.9,49323,1881,136,3.81,5.9,225.0,8758
+2023-01-15,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,46713,3708,340,7.94,0.0,0.0,0
+2023-01-16,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,60918.09,144031,15989,1653,11.1,3.81,422.95,21635
+2023-01-16,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,59807.59,119521,13087,1457,10.95,4.57,500.39,0
+2023-01-16,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,10118.85,65834,2095,131,3.18,4.83,153.7,10596
+2023-01-16,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,34783,2908,288,8.36,0.0,0.0,0
+2023-01-17,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,40586.61,113287,9733,771,8.59,4.17,358.26,14775
+2023-01-17,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,31445.76,77506,8189,929,10.57,3.84,405.72,0
+2023-01-17,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,6499.05,50972,1171,65,2.3,5.55,127.5,7935
+2023-01-17,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,38441,3615,404,9.4,0.0,0.0,0
+2023-01-18,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,44360.89,109259,11893,1018,10.89,3.73,406.02,9940
+2023-01-18,Paid Search,Google Search Ads 360,Integrated dedicated contingency,41994.65,79384,9437,1090,11.89,4.45,529.01,0
+2023-01-18,Paid Social,Facebook,Facebook B2B Decision Makers,6678.08,50357,1312,76,2.61,5.09,132.61,7900
+2023-01-18,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,42560,3890,356,9.14,0.0,0.0,0
+2023-01-19,Programmatic,StackAdapt,Automated uniform software,55071.24,146066,14844,1411,10.16,3.71,377.03,16751
+2023-01-19,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,43925.76,104742,11808,1059,11.27,3.72,419.37,0
+2023-01-19,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,6067.76,48513,1039,74,2.14,5.84,125.07,7101
+2023-01-19,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,37306,3158,307,8.47,0.0,0.0,0
+2023-01-20,Programmatic,StackAdapt,Business-focused zero tolerance architecture,39235.35,102450,9933,945,9.7,3.95,382.97,8845
+2023-01-20,Paid Search,Google Search Ads 360,Networked value-added time-frame,42129.0,83297,9060,952,10.88,4.65,505.77,0
+2023-01-20,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,7322.94,49740,1278,72,2.57,5.73,147.22,4163
+2023-01-20,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,36281,3722,373,10.26,0.0,0.0,0
+2023-01-21,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,50718.5,119449,11795,1099,9.87,4.3,424.6,16012
+2023-01-21,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,47814.24,111512,13064,1246,11.72,3.66,428.78,0
+2023-01-21,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,5046.0,42192,870,49,2.06,5.8,119.6,3795
+2023-01-21,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,34931,3451,289,9.88,0.0,0.0,0
+2023-01-22,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,40961.5,117123,10370,1010,8.85,3.95,349.73,23757
+2023-01-22,Paid Search,Google Search Ads 360,Profound intangible policy,50588.92,116988,13348,1309,11.41,3.79,432.43,0
+2023-01-22,Paid Social,Facebook,Facebook B2B Decision Makers,16219.36,62748,3026,225,4.82,5.36,258.48,8287
+2023-01-22,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,47502,3735,413,7.86,0.0,0.0,0
+2023-01-23,Programmatic,StackAdapt,Automated uniform software,45462.85,126213,13571,1343,10.75,3.35,360.21,26044
+2023-01-23,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,58524.4,108479,12452,1236,11.48,4.7,539.5,0
+2023-01-23,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,5428.92,55175,1124,81,2.04,4.83,98.39,6880
+2023-01-23,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,51096,5264,527,10.3,0.0,0.0,0
+2023-01-24,Programmatic,StackAdapt,Automated uniform software,44732.0,119235,11183,975,9.38,4.0,375.16,22098
+2023-01-24,Paid Search,Google Search Ads 360,Networked value-added time-frame,53963.01,113287,12879,1186,11.37,4.19,476.34,0
+2023-01-24,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,10726.58,44533,1747,111,3.92,6.14,240.87,5750
+2023-01-24,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,34365,2430,256,7.07,0.0,0.0,0
+2023-01-25,Programmatic,StackAdapt,Centralized modular throughput,29521.89,101909,8919,870,8.75,3.31,289.69,19878
+2023-01-25,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,48633.91,109382,10111,929,9.24,4.81,444.62,0
+2023-01-25,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,10526.88,51181,1687,119,3.3,6.24,205.68,11159
+2023-01-25,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,44515,3563,305,8.01,0.0,0.0,0
+2023-01-26,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,42665.28,129943,12698,1310,9.77,3.36,328.34,19357
+2023-01-26,Paid Search,Google Search Ads 360,Networked value-added time-frame,32951.76,85132,8858,806,10.41,3.72,387.07,0
+2023-01-26,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,11516.88,47800,2042,142,4.27,5.64,240.94,10262
+2023-01-26,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,40207,3072,334,7.64,0.0,0.0,0
+2023-01-27,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,35525.68,126884,10831,1136,8.54,3.28,279.99,25980
+2023-01-27,Paid Search,Google Search Ads 360,Networked value-added time-frame,46133.08,90196,10804,989,11.98,4.27,511.48,0
+2023-01-27,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,12594.48,56508,2164,146,3.83,5.82,222.88,8116
+2023-01-27,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,37503,3314,363,8.84,0.0,0.0,0
+2023-01-28,Programmatic,StackAdapt,Automated uniform software,39082.5,91818,10422,1071,11.35,3.75,425.65,15316
+2023-01-28,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,29370.12,76395,7306,758,9.56,4.02,384.45,0
+2023-01-28,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,6615.0,46223,1050,77,2.27,6.3,143.11,8215
+2023-01-28,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,34029,2633,282,7.74,0.0,0.0,0
+2023-01-29,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,51780.34,106963,12014,1212,11.23,4.31,484.1,19424
+2023-01-29,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,51469.7,107716,11045,1310,10.25,4.66,477.83,0
+2023-01-29,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,5649.4,44958,940,58,2.09,6.01,125.66,9810
+2023-01-29,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,35453,3146,297,8.88,0.0,0.0,0
+2023-01-30,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,62045.3,152243,16769,1528,11.01,3.7,407.54,18006
+2023-01-30,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,51400.86,91794,10642,1222,11.59,4.83,559.96,0
+2023-01-30,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,17524.99,71342,2813,197,3.94,6.23,245.65,14193
+2023-01-30,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,40127,3331,290,8.3,0.0,0.0,0
+2023-01-31,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,50182.17,139009,12769,1235,9.19,3.93,361.0,18091
+2023-01-31,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,46975.38,93944,10347,1093,11.01,4.54,500.04,0
+2023-01-31,Paid Social,Facebook,Facebook B2B Decision Makers,16665.6,59742,2976,196,4.98,5.6,278.96,12111
+2023-01-31,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,42732,3006,252,7.04,0.0,0.0,0
+2023-02-01,Programmatic,StackAdapt,Cross-platform static hierarchy,47578.65,132257,14035,1180,10.61,3.39,359.74,10849
+2023-02-01,Paid Search,Google Search Ads 360,Integrated dedicated contingency,43865.64,98869,10647,1081,10.77,4.12,443.67,0
+2023-02-01,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,12519.09,65148,2097,136,3.22,5.97,192.16,8828
+2023-02-01,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,44115,4389,488,9.95,0.0,0.0,0
+2023-02-02,Programmatic,StackAdapt,Business-focused zero tolerance architecture,45675.0,122090,12180,1039,9.98,3.75,374.11,26518
+2023-02-02,Paid Search,Google Search Ads 360,Networked value-added time-frame,33487.11,86655,8653,944,9.99,3.87,386.44,0
+2023-02-02,Paid Social,Facebook,Facebook B2B Decision Makers,4648.99,38489,943,54,2.45,4.93,120.79,3827
+2023-02-02,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,36723,2654,248,7.23,0.0,0.0,0
+2023-02-03,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,47071.8,129917,13644,1131,10.5,3.45,362.32,11136
+2023-02-03,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,34352.8,94915,9335,885,9.84,3.68,361.93,0
+2023-02-03,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,9440.64,49494,1788,105,3.61,5.28,190.74,7447
+2023-02-03,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,47094,3135,334,6.66,0.0,0.0,0
+2023-02-04,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,37158.0,101260,11260,1166,11.12,3.3,366.96,12025
+2023-02-04,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,48985.7,113748,12790,1215,11.24,3.83,430.65,0
+2023-02-04,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,9995.04,51246,1893,127,3.7,5.28,195.04,7418
+2023-02-04,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,44547,2960,268,6.65,0.0,0.0,0
+2023-02-05,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,48538.15,144390,14489,1345,10.04,3.35,336.16,20595
+2023-02-05,Paid Search,Google Search Ads 360,Integrated dedicated contingency,41463.9,105256,10238,1000,9.73,4.05,393.93,0
+2023-02-05,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,7308.0,44775,1400,83,3.13,5.22,163.22,4332
+2023-02-05,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,48052,4264,440,8.87,0.0,0.0,0
+2023-02-06,Programmatic,StackAdapt,Automated uniform software,43504.5,127330,11155,1037,8.76,3.9,341.67,23474
+2023-02-06,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,39046.67,103272,9689,951,9.38,4.03,378.1,0
+2023-02-06,Paid Social,Facebook,Facebook B2B Decision Makers,15088.5,59931,2395,148,4.0,6.3,251.76,9877
+2023-02-06,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,38006,2625,230,6.91,0.0,0.0,0
+2023-02-07,Programmatic,StackAdapt,Cross-platform static hierarchy,28966.35,93215,8445,726,9.06,3.43,310.75,19160
+2023-02-07,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,38032.67,74787,7907,807,10.57,4.81,508.55,0
+2023-02-07,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,8375.3,40496,1373,101,3.39,6.1,206.82,7872
+2023-02-07,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,32469,2332,240,7.18,0.0,0.0,0
+2023-02-08,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,56870.07,135465,13837,1188,10.21,4.11,419.81,14384
+2023-02-08,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,40906.84,102596,10543,1109,10.28,3.88,398.72,0
+2023-02-08,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,11597.8,49800,2060,125,4.14,5.63,232.89,5060
+2023-02-08,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,43819,3781,320,8.63,0.0,0.0,0
+2023-02-09,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,29678.4,94868,8244,869,8.69,3.6,312.84,18345
+2023-02-09,Paid Search,Google Search Ads 360,Integrated dedicated contingency,39843.36,83510,9223,1044,11.04,4.32,477.11,0
+2023-02-09,Paid Social,Facebook,Facebook B2B Decision Makers,10432.8,48824,1680,104,3.44,6.21,213.68,9583
+2023-02-09,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,43928,3073,322,7.0,0.0,0.0,0
+2023-02-10,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,39102.64,115849,10078,994,8.7,3.88,337.53,22921
+2023-02-10,Paid Search,Google Search Ads 360,Networked value-added time-frame,40759.74,94706,10783,1030,11.39,3.78,430.38,0
+2023-02-10,Paid Social,Facebook,FB Lead Gen — Mid-Market,13728.12,51088,2478,169,4.85,5.54,268.72,6653
+2023-02-10,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,50938,4110,441,8.07,0.0,0.0,0
+2023-02-11,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,44035.44,109157,10793,933,9.89,4.08,403.41,16415
+2023-02-11,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,42470.25,85425,9993,1012,11.7,4.25,497.16,0
+2023-02-11,Paid Social,Facebook,Facebook B2B Decision Makers,15462.86,59322,2482,142,4.18,6.23,260.66,9958
+2023-02-11,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,35742,2522,268,7.06,0.0,0.0,0
+2023-02-12,Programmatic,StackAdapt,Automated uniform software,46739.8,122946,13747,1374,11.18,3.4,380.17,15201
+2023-02-12,Paid Search,Google Search Ads 360,Networked value-added time-frame,43813.77,90930,10213,922,11.23,4.29,481.84,0
+2023-02-12,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,18204.57,59581,3019,186,5.07,6.03,305.54,5689
+2023-02-12,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,46045,3227,306,7.01,0.0,0.0,0
+2023-02-13,Programmatic,StackAdapt,Business-focused zero tolerance architecture,40860.45,109820,10089,990,9.19,4.05,372.07,18643
+2023-02-13,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,48869.87,114674,12187,1184,10.63,4.01,426.16,0
+2023-02-13,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,13697.1,49528,2565,170,5.18,5.34,276.55,7165
+2023-02-13,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,50183,3569,358,7.11,0.0,0.0,0
+2023-02-14,Programmatic,StackAdapt,Centralized modular throughput,44929.17,122437,10473,1071,8.55,4.29,366.96,19482
+2023-02-14,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,46616.48,105359,12398,1382,11.77,3.76,442.45,0
+2023-02-14,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,13034.57,53683,2213,140,4.12,5.89,242.81,11316
+2023-02-14,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,45721,3796,328,8.3,0.0,0.0,0
+2023-02-15,Programmatic,StackAdapt,Business-focused zero tolerance architecture,57172.56,152680,13548,1403,8.87,4.22,374.46,23304
+2023-02-15,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,47249.58,116136,11842,1077,10.2,3.99,406.85,0
+2023-02-15,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,7195.5,66996,1350,83,2.02,5.33,107.4,10400
+2023-02-15,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,52344,4127,385,7.89,0.0,0.0,0
+2023-02-16,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,38296.83,123150,11297,1024,9.17,3.39,310.98,12893
+2023-02-16,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,43217.72,104556,10724,1266,10.26,4.03,413.35,0
+2023-02-16,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,13998.02,57598,2426,134,4.21,5.77,243.03,6043
+2023-02-16,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,49568,3516,335,7.09,0.0,0.0,0
+2023-02-17,Programmatic,StackAdapt,Cross-platform static hierarchy,40524.33,122359,12243,1158,10.01,3.31,331.19,22635
+2023-02-17,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,33497.52,75190,8792,841,11.69,3.81,445.5,0
+2023-02-17,Paid Social,Facebook,Facebook B2B Decision Makers,6448.22,36955,1349,89,3.65,4.78,174.49,6968
+2023-02-17,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,33388,2870,276,8.6,0.0,0.0,0
+2023-02-18,Programmatic,StackAdapt,Centralized modular throughput,43834.52,116133,10412,866,8.97,4.21,377.45,24673
+2023-02-18,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,36008.36,89732,8804,964,9.81,4.09,401.29,0
+2023-02-18,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,5990.4,40841,1040,71,2.55,5.76,146.68,3422
+2023-02-18,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,33604,2494,257,7.42,0.0,0.0,0
+2023-02-19,Programmatic,StackAdapt,Automated uniform software,36309.62,83919,9146,760,10.9,3.97,432.67,9511
+2023-02-19,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,31568.85,69778,6789,760,9.73,4.65,452.42,0
+2023-02-19,Paid Social,Facebook,Facebook B2B Decision Makers,8517.0,50168,1700,116,3.39,5.01,169.77,6072
+2023-02-19,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,38505,2522,216,6.55,0.0,0.0,0
+2023-02-20,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,28960.26,86317,7806,736,9.04,3.71,335.51,17692
+2023-02-20,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,40601.25,100004,10025,976,10.03,4.05,406.0,0
+2023-02-20,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,7704.0,49035,1440,97,2.94,5.35,157.11,7712
+2023-02-20,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,34587,2655,295,7.68,0.0,0.0,0
+2023-02-21,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,51106.25,108281,12025,1102,11.11,4.25,471.98,20787
+2023-02-21,Paid Search,Google Search Ads 360,Networked value-added time-frame,39401.75,102254,9271,905,9.07,4.25,385.33,0
+2023-02-21,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,10393.9,59219,1718,99,2.9,6.05,175.52,12898
+2023-02-21,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,42596,3061,279,7.19,0.0,0.0,0
+2023-02-22,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,36408.9,116178,10285,967,8.85,3.54,313.39,18307
+2023-02-22,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,36226.02,88082,10119,968,11.49,3.58,411.28,0
+2023-02-22,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,11031.34,37860,1949,140,5.15,5.66,291.37,6211
+2023-02-22,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,35413,2550,280,7.2,0.0,0.0,0
+2023-02-23,Programmatic,StackAdapt,Centralized modular throughput,37401.12,108743,10936,869,10.06,3.42,343.94,19935
+2023-02-23,Paid Search,Google Search Ads 360,Profound intangible policy,34753.6,79198,8560,830,10.81,4.06,438.82,0
+2023-02-23,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,7786.02,46415,1506,104,3.24,5.17,167.75,7393
+2023-02-23,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,37660,3447,382,9.15,0.0,0.0,0
+2023-02-24,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,37320.95,111077,9545,815,8.59,3.91,335.99,9685
+2023-02-24,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,51106.78,104325,11257,1123,10.79,4.54,489.88,0
+2023-02-24,Paid Social,Facebook,FB Lead Gen — Mid-Market,5830.38,46952,1062,73,2.26,5.49,124.18,8281
+2023-02-24,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,40701,3046,327,7.49,0.0,0.0,0
+2023-02-25,Programmatic,StackAdapt,Automated uniform software,46704.84,137730,12831,1212,9.32,3.64,339.1,12784
+2023-02-25,Paid Search,Google Search Ads 360,Integrated dedicated contingency,48292.09,124257,11693,1393,9.41,4.13,388.65,0
+2023-02-25,Paid Social,Facebook,Facebook B2B Decision Makers,11371.92,49638,1934,139,3.9,5.88,229.1,9576
+2023-02-25,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,45298,4198,454,9.27,0.0,0.0,0
+2023-02-26,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,42466.43,107531,9853,1039,9.16,4.31,394.92,9196
+2023-02-26,Paid Search,Google Search Ads 360,Integrated dedicated contingency,49197.72,97389,11468,1088,11.78,4.29,505.17,0
+2023-02-26,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,6126.45,55971,1185,81,2.12,5.17,109.46,11721
+2023-02-26,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,42778,4396,427,10.28,0.0,0.0,0
+2023-02-27,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,45753.84,147954,13992,1414,9.46,3.27,309.24,24187
+2023-02-27,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,40263.6,96658,9048,829,9.36,4.45,416.56,0
+2023-02-27,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,12755.6,54091,2453,138,4.54,5.2,235.82,8412
+2023-02-27,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,48385,3761,382,7.78,0.0,0.0,0
+2023-02-28,Programmatic,StackAdapt,Cross-platform static hierarchy,53163.56,136961,12598,993,9.2,4.22,388.17,11364
+2023-02-28,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,60813.24,125428,13278,1577,10.59,4.58,484.85,0
+2023-02-28,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,12020.34,69762,2251,158,3.23,5.34,172.3,10267
+2023-02-28,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,45857,4583,514,9.99,0.0,0.0,0
+2023-03-01,Programmatic,StackAdapt,Cross-platform static hierarchy,66563.0,194776,19018,1874,9.76,3.5,341.74,18594
+2023-03-01,Paid Search,Google Search Ads 360,Integrated dedicated contingency,60169.68,158074,15588,1536,9.86,3.86,380.64,0
+2023-03-01,Paid Social,Facebook,FB Lead Gen — Mid-Market,8113.04,73116,1508,112,2.06,5.38,110.96,9783
+2023-03-01,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,71957,5305,590,7.37,0.0,0.0,0
+2023-03-02,Programmatic,StackAdapt,Centralized modular throughput,71149.48,169275,16508,1691,9.75,4.31,420.32,24618
+2023-03-02,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,64705.18,176439,16763,2019,9.5,3.86,366.73,0
+2023-03-02,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,24994.56,105959,4528,303,4.27,5.52,235.89,11898
+2023-03-02,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,58777,4338,385,7.38,0.0,0.0,0
+2023-03-03,Programmatic,StackAdapt,Centralized modular throughput,69870.96,189997,16479,1729,8.67,4.24,367.75,39877
+2023-03-03,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,87025.83,201770,19211,1954,9.52,4.53,431.31,0
+2023-03-03,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,12417.95,96871,2459,174,2.54,5.05,128.19,10785
+2023-03-03,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,68367,6065,608,8.87,0.0,0.0,0
+2023-03-04,Programmatic,StackAdapt,Centralized modular throughput,72029.12,182734,16988,1389,9.3,4.24,394.17,39066
+2023-03-04,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,73740.6,151467,17310,1902,11.43,4.26,486.84,0
+2023-03-04,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,10302.0,58904,2020,126,3.43,5.1,174.89,10678
+2023-03-04,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,52833,3605,323,6.82,0.0,0.0,0
+2023-03-05,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,68021.1,162806,17995,1653,11.05,3.78,417.8,26527
+2023-03-05,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,79342.64,184588,18538,2050,10.04,4.28,429.84,0
+2023-03-05,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,23091.84,79011,4009,283,5.08,5.76,292.26,15729
+2023-03-05,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,74949,6995,754,9.33,0.0,0.0,0
+2023-03-06,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,74556.24,211131,21864,2163,10.36,3.41,353.13,42927
+2023-03-06,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,63902.36,188527,17132,1974,9.09,3.73,338.96,0
+2023-03-06,Paid Social,Facebook,Facebook B2B Decision Makers,22647.24,81756,3762,219,4.6,6.02,277.01,16064
+2023-03-06,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,65842,4296,394,6.53,0.0,0.0,0
+2023-03-07,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,93946.8,228795,23784,2030,10.4,3.95,410.62,35600
+2023-03-07,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,70426.75,177786,16571,1876,9.32,4.25,396.13,0
+2023-03-07,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,20058.3,101066,3230,218,3.2,6.21,198.47,9535
+2023-03-07,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,75140,6951,592,9.25,0.0,0.0,0
+2023-03-08,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,58680.2,186279,16210,1528,8.7,3.62,315.01,31095
+2023-03-08,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,65235.01,117262,13619,1633,11.61,4.79,556.32,0
+2023-03-08,Paid Social,Facebook,Facebook B2B Decision Makers,9737.36,84059,2063,144,2.46,4.72,115.84,6985
+2023-03-08,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,53275,4504,477,8.45,0.0,0.0,0
+2023-03-09,Programmatic,StackAdapt,Business-focused zero tolerance architecture,66502.44,191805,17877,1889,9.32,3.72,346.72,27465
+2023-03-09,Paid Search,Google Search Ads 360,Integrated dedicated contingency,61969.6,141391,16096,1788,11.38,3.85,438.29,0
+2023-03-09,Paid Social,Facebook,FB Lead Gen — Mid-Market,16313.4,72577,3180,216,4.38,5.13,224.77,15467
+2023-03-09,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,56227,4627,513,8.23,0.0,0.0,0
+2023-03-10,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,79848.6,189385,18356,1574,9.69,4.35,421.62,26003
+2023-03-10,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,60550.53,173108,16773,1609,9.69,3.61,349.78,0
+2023-03-10,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,15189.72,84590,2782,200,3.29,5.46,179.57,18233
+2023-03-10,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,52290,5215,553,9.97,0.0,0.0,0
+2023-03-11,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,83594.16,229366,24732,2361,10.78,3.38,364.46,19393
+2023-03-11,Paid Search,Google Search Ads 360,Profound intangible policy,89000.56,196249,21292,2434,10.85,4.18,453.51,0
+2023-03-11,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,9966.11,75872,1849,126,2.44,5.39,131.35,8199
+2023-03-11,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,66963,4524,454,6.76,0.0,0.0,0
+2023-03-12,Programmatic,StackAdapt,Centralized modular throughput,58109.4,190174,17935,1627,9.43,3.24,305.56,17142
+2023-03-12,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,55747.06,135532,14149,1530,10.44,3.94,411.32,0
+2023-03-12,Paid Social,Facebook,FB Lead Gen — Mid-Market,19334.46,81422,4079,287,5.01,4.74,237.46,11991
+2023-03-12,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,47696,3562,400,7.47,0.0,0.0,0
+2023-03-13,Programmatic,StackAdapt,Automated uniform software,64876.68,161905,16764,1635,10.35,3.87,400.71,13173
+2023-03-13,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,53152.55,125611,13255,1219,10.55,4.01,423.15,0
+2023-03-13,Paid Social,Facebook,FB Lead Gen — Mid-Market,6508.59,58548,1331,83,2.28,4.89,111.17,9335
+2023-03-13,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,58084,5635,502,9.7,0.0,0.0,0
+2023-03-14,Programmatic,StackAdapt,Automated uniform software,46862.37,137682,14331,1400,10.41,3.27,340.37,29060
+2023-03-14,Paid Search,Google Search Ads 360,Profound intangible policy,55498.28,111867,11884,1326,10.62,4.67,496.11,0
+2023-03-14,Paid Social,Facebook,Facebook B2B Decision Makers,22827.84,78914,3792,234,4.81,6.02,289.27,7198
+2023-03-14,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,63126,5485,588,8.69,0.0,0.0,0
+2023-03-15,Programmatic,StackAdapt,Automated uniform software,64218.76,191919,19343,1903,10.08,3.32,334.61,16975
+2023-03-15,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,49607.25,135946,12885,1503,9.48,3.85,364.9,0
+2023-03-15,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,18250.96,96019,3052,179,3.18,5.98,190.08,16536
+2023-03-15,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,60455,5272,550,8.72,0.0,0.0,0
+2023-03-16,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,79303.2,200625,22920,2203,11.42,3.46,395.28,35155
+2023-03-16,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,43624.8,115623,10512,1023,9.09,4.15,377.3,0
+2023-03-16,Paid Social,Facebook,FB Lead Gen — Mid-Market,20869.02,85356,3879,270,4.55,5.38,244.49,10962
+2023-03-16,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,52919,5530,467,10.45,0.0,0.0,0
+2023-03-17,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,79459.38,214156,21021,2064,9.82,3.78,371.04,43319
+2023-03-17,Paid Search,Google Search Ads 360,Profound intangible policy,89022.24,200750,20607,2018,10.27,4.32,443.45,0
+2023-03-17,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,16828.24,107497,2942,198,2.74,5.72,156.55,19632
+2023-03-17,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,59008,5525,607,9.36,0.0,0.0,0
+2023-03-18,Programmatic,StackAdapt,Cross-platform static hierarchy,70501.2,147069,16786,1396,11.41,4.2,479.37,21901
+2023-03-18,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,60316.46,123088,14293,1476,11.61,4.22,490.03,0
+2023-03-18,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,14938.56,68918,2808,164,4.08,5.32,216.76,14866
+2023-03-18,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,49474,4515,419,9.13,0.0,0.0,0
+2023-03-19,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,68659.5,171943,19617,1779,11.41,3.5,399.32,15524
+2023-03-19,Paid Search,Google Search Ads 360,Integrated dedicated contingency,71021.66,145900,15406,1538,10.56,4.61,486.78,0
+2023-03-19,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,14611.68,87178,2502,168,2.87,5.84,167.61,9012
+2023-03-19,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,58302,3875,406,6.65,0.0,0.0,0
+2023-03-20,Programmatic,StackAdapt,Automated uniform software,82972.5,192842,21275,2136,11.03,3.9,430.26,38868
+2023-03-20,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,48677.72,143247,13373,1307,9.34,3.64,339.82,0
+2023-03-20,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,22579.76,87666,4627,259,5.28,4.88,257.57,12563
+2023-03-20,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,76210,5917,581,7.76,0.0,0.0,0
+2023-03-21,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,49653.0,133729,15325,1606,11.46,3.24,371.3,28518
+2023-03-21,Paid Search,Google Search Ads 360,Networked value-added time-frame,67034.7,136899,15885,1645,11.6,4.22,489.67,0
+2023-03-21,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,14084.48,68855,2984,172,4.33,4.72,204.55,8476
+2023-03-21,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,56119,4100,422,7.31,0.0,0.0,0
+2023-03-22,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,79593.42,179325,18861,1705,10.52,4.22,443.85,18793
+2023-03-22,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,98018.18,192167,22126,2633,11.51,4.43,510.07,0
+2023-03-22,Paid Social,Facebook,FB Lead Gen — Mid-Market,22232.72,95050,3956,285,4.16,5.62,233.91,8008
+2023-03-22,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,83670,7746,799,9.26,0.0,0.0,0
+2023-03-23,Programmatic,StackAdapt,Centralized modular throughput,57462.55,177174,17153,1649,9.68,3.35,324.33,30491
+2023-03-23,Paid Search,Google Search Ads 360,Integrated dedicated contingency,62138.4,166554,15230,1828,9.14,4.08,373.08,0
+2023-03-23,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,23724.92,85018,4028,267,4.74,5.89,279.06,17257
+2023-03-23,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,53399,4169,429,7.81,0.0,0.0,0
+2023-03-24,Programmatic,StackAdapt,Business-focused zero tolerance architecture,102090.56,225285,24541,2214,10.89,4.16,453.16,21814
+2023-03-24,Paid Search,Google Search Ads 360,Networked value-added time-frame,62843.82,172935,15594,1551,9.02,4.03,363.4,0
+2023-03-24,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,20872.42,86856,3851,241,4.43,5.42,240.31,9836
+2023-03-24,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,64518,4780,408,7.41,0.0,0.0,0
+2023-03-25,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,77288.22,203869,21117,1921,10.36,3.66,379.11,40950
+2023-03-25,Paid Search,Google Search Ads 360,Profound intangible policy,66964.0,160396,16741,1507,10.44,4.0,417.49,0
+2023-03-25,Paid Social,Facebook,FB Lead Gen — Mid-Market,15256.64,80828,2744,182,3.4,5.56,188.75,13345
+2023-03-25,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,70418,6867,717,9.75,0.0,0.0,0
+2023-03-26,Programmatic,StackAdapt,Business-focused zero tolerance architecture,62090.8,172113,15640,1226,9.09,3.97,360.76,35407
+2023-03-26,Paid Search,Google Search Ads 360,Networked value-added time-frame,89219.25,159435,18783,1712,11.78,4.75,559.6,0
+2023-03-26,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,10699.8,89130,2098,135,2.35,5.1,120.05,10685
+2023-03-26,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,65587,6369,631,9.71,0.0,0.0,0
+2023-03-27,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,71006.7,180230,19191,1645,10.65,3.7,393.98,17493
+2023-03-27,Paid Search,Google Search Ads 360,Networked value-added time-frame,58623.57,125497,13859,1316,11.04,4.23,467.13,0
+2023-03-27,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,10062.3,83131,1973,130,2.37,5.1,121.04,17857
+2023-03-27,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,57158,5558,552,9.72,0.0,0.0,0
+2023-03-28,Programmatic,StackAdapt,Business-focused zero tolerance architecture,77475.84,164029,18624,1765,11.35,4.16,472.33,33427
+2023-03-28,Paid Search,Google Search Ads 360,Integrated dedicated contingency,45583.05,115663,11145,1209,9.64,4.09,394.1,0
+2023-03-28,Paid Social,Facebook,FB Lead Gen — Mid-Market,20528.43,78625,4049,251,5.15,5.07,261.09,14881
+2023-03-28,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,47235,4624,442,9.79,0.0,0.0,0
+2023-03-29,Programmatic,StackAdapt,Centralized modular throughput,66132.3,163498,16957,1537,10.37,3.9,404.48,16925
+2023-03-29,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,76091.49,177947,20621,1981,11.59,3.69,427.61,0
+2023-03-29,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,16628.4,70172,2980,199,4.25,5.58,236.97,7892
+2023-03-29,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,62181,5520,540,8.88,0.0,0.0,0
+2023-03-30,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,72424.68,183930,19469,1739,10.59,3.72,393.76,33192
+2023-03-30,Paid Search,Google Search Ads 360,Integrated dedicated contingency,85577.3,193164,23129,2157,11.97,3.7,443.03,0
+2023-03-30,Paid Social,Facebook,FB Lead Gen — Mid-Market,20177.95,104241,4195,254,4.02,4.81,193.57,9589
+2023-03-30,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,83055,6035,560,7.27,0.0,0.0,0
+2023-03-31,Programmatic,StackAdapt,Cross-platform static hierarchy,45419.82,157576,13722,1269,8.71,3.31,288.24,30262
+2023-03-31,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,58066.53,124551,13227,1547,10.62,4.39,466.21,0
+2023-03-31,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,13646.58,75326,2361,145,3.14,5.78,181.17,16509
+2023-03-31,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,59369,5183,543,8.73,0.0,0.0,0
+2023-04-01,Programmatic,StackAdapt,Automated uniform software,52489.29,150232,15303,1601,10.19,3.43,349.39,26531
+2023-04-01,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,58734.18,133749,14187,1309,10.61,4.14,439.14,0
+2023-04-01,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,17209.27,89328,2873,195,3.22,5.99,192.65,18741
+2023-04-01,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,54319,4398,386,8.1,0.0,0.0,0
+2023-04-02,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,97547.52,252338,25536,2590,10.12,3.82,386.57,42216
+2023-04-02,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,77945.88,150087,16908,1577,11.27,4.61,519.34,0
+2023-04-02,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,24739.68,106595,4776,267,4.48,5.18,232.09,12454
+2023-04-02,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,67822,4646,514,6.85,0.0,0.0,0
+2023-04-03,Programmatic,StackAdapt,Automated uniform software,65652.81,173273,16791,1520,9.69,3.91,378.9,26371
+2023-04-03,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,88999.84,182841,19181,2311,10.49,4.64,486.76,0
+2023-04-03,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,23345.56,73769,3878,223,5.26,6.02,316.47,9832
+2023-04-03,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,72098,7189,769,9.97,0.0,0.0,0
+2023-04-04,Programmatic,StackAdapt,Cross-platform static hierarchy,56053.06,186929,16342,1459,8.74,3.43,299.86,33141
+2023-04-04,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,87184.32,158574,18912,2069,11.93,4.61,549.8,0
+2023-04-04,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,21130.88,76873,3856,282,5.02,5.48,274.88,12674
+2023-04-04,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,74750,5381,527,7.2,0.0,0.0,0
+2023-04-05,Programmatic,StackAdapt,Automated uniform software,47869.84,152921,14684,1175,9.6,3.26,313.04,15127
+2023-04-05,Paid Search,Google Search Ads 360,Profound intangible policy,76992.63,175925,18733,2241,10.65,4.11,437.64,0
+2023-04-05,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,13386.0,73203,2760,176,3.77,4.85,182.86,12423
+2023-04-05,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,52628,4725,483,8.98,0.0,0.0,0
+2023-04-06,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,47962.2,134051,14534,1321,10.84,3.3,357.79,29394
+2023-04-06,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,47837.07,111516,12361,1486,11.09,3.87,428.97,0
+2023-04-06,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,7264.84,61916,1501,91,2.42,4.84,117.33,10953
+2023-04-06,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,44704,3816,429,8.54,0.0,0.0,0
+2023-04-07,Programmatic,StackAdapt,Cross-platform static hierarchy,77086.41,213694,20127,1920,9.42,3.83,360.73,29842
+2023-04-07,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,64619.12,145087,16916,1749,11.66,3.82,445.38,0
+2023-04-07,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,17469.74,85988,2966,211,3.45,5.89,203.16,16140
+2023-04-07,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,54775,4472,435,8.16,0.0,0.0,0
+2023-04-08,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,57703.68,139393,15027,1231,10.78,3.84,413.96,15351
+2023-04-08,Paid Search,Google Search Ads 360,Networked value-added time-frame,46061.06,103429,10057,1206,9.72,4.58,445.34,0
+2023-04-08,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,16784.64,81136,3008,172,3.71,5.58,206.87,11652
+2023-04-08,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,58483,4030,393,6.89,0.0,0.0,0
+2023-04-09,Programmatic,StackAdapt,Automated uniform software,59222.46,151060,16181,1477,10.71,3.66,392.05,20427
+2023-04-09,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,72131.94,133181,15122,1774,11.36,4.77,541.61,0
+2023-04-09,Paid Social,Facebook,FB Lead Gen — Mid-Market,13489.2,80487,2498,171,3.1,5.4,167.59,9308
+2023-04-09,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,61534,4094,449,6.65,0.0,0.0,0
+2023-04-10,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,79691.04,192065,20124,2070,10.48,3.96,414.92,31873
+2023-04-10,Paid Search,Google Search Ads 360,Networked value-added time-frame,59575.5,125427,13239,1244,10.56,4.5,474.98,0
+2023-04-10,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,17133.22,81316,3562,199,4.38,4.81,210.7,14660
+2023-04-10,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,50302,3413,285,6.79,0.0,0.0,0
+2023-04-11,Programmatic,StackAdapt,Business-focused zero tolerance architecture,81032.49,233519,22323,1928,9.56,3.63,347.01,44007
+2023-04-11,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,66704.13,189187,18077,1712,9.56,3.69,352.58,0
+2023-04-11,Paid Social,Facebook,Facebook B2B Decision Makers,22207.65,100859,4715,284,4.68,4.71,220.19,9229
+2023-04-11,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,84389,6482,686,7.68,0.0,0.0,0
+2023-04-12,Programmatic,StackAdapt,Automated uniform software,65662.44,183270,16708,1362,9.12,3.93,358.28,34536
+2023-04-12,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,85994.87,169521,17953,1626,10.59,4.79,507.28,0
+2023-04-12,Paid Social,Facebook,Facebook B2B Decision Makers,16408.98,95705,2894,215,3.02,5.67,171.45,15460
+2023-04-12,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,70480,6869,704,9.75,0.0,0.0,0
+2023-04-13,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,62046.35,150649,16999,1434,11.28,3.65,411.86,21164
+2023-04-13,Paid Search,Google Search Ads 360,Integrated dedicated contingency,54934.65,130971,14195,1688,10.84,3.87,419.44,0
+2023-04-13,Paid Social,Facebook,FB Lead Gen — Mid-Market,9379.16,60748,1634,118,2.69,5.74,154.39,7291
+2023-04-13,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,60475,6014,650,9.95,0.0,0.0,0
+2023-04-14,Programmatic,StackAdapt,Business-focused zero tolerance architecture,85693.88,189992,20452,1859,10.77,4.19,451.04,34576
+2023-04-14,Paid Search,Google Search Ads 360,Integrated dedicated contingency,91193.82,195177,21407,2030,10.97,4.26,467.24,0
+2023-04-14,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,29249.55,111901,5909,331,5.28,4.95,261.39,11015
+2023-04-14,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,76651,7489,670,9.77,0.0,0.0,0
+2023-04-15,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,87644.7,210062,22473,2093,10.7,3.9,417.23,31755
+2023-04-15,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,70713.14,141581,15142,1680,10.7,4.67,499.45,0
+2023-04-15,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,21977.6,86643,4040,235,4.66,5.44,253.66,7044
+2023-04-15,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,55378,5208,585,9.41,0.0,0.0,0
+2023-04-16,Programmatic,StackAdapt,Business-focused zero tolerance architecture,64361.64,152973,16674,1397,10.9,3.86,420.74,27937
+2023-04-16,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,60556.8,138863,13280,1333,9.56,4.56,436.09,0
+2023-04-16,Paid Social,Facebook,FB Lead Gen — Mid-Market,6901.07,72312,1459,102,2.02,4.73,95.43,13334
+2023-04-16,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,46765,4831,454,10.33,0.0,0.0,0
+2023-04-17,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,61402.87,149215,14051,1438,9.42,4.37,411.51,19631
+2023-04-17,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,68346.72,141690,15821,1853,11.17,4.32,482.37,0
+2023-04-17,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,11896.56,73806,2542,174,3.44,4.68,161.19,12306
+2023-04-17,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,54520,5275,453,9.68,0.0,0.0,0
+2023-04-18,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,76500.74,188610,19666,1573,10.43,3.89,405.6,29915
+2023-04-18,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,80319.46,162223,17537,1938,10.81,4.58,495.12,0
+2023-04-18,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,17990.4,76692,3748,243,4.89,4.8,234.58,6764
+2023-04-18,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,59151,5701,593,9.64,0.0,0.0,0
+2023-04-19,Programmatic,StackAdapt,Cross-platform static hierarchy,72151.2,204082,20042,1648,9.82,3.6,353.54,28727
+2023-04-19,Paid Search,Google Search Ads 360,Networked value-added time-frame,61348.5,141107,13633,1473,9.66,4.5,434.77,0
+2023-04-19,Paid Social,Facebook,Facebook B2B Decision Makers,30549.93,108037,5689,385,5.27,5.37,282.77,18265
+2023-04-19,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,75280,5249,500,6.97,0.0,0.0,0
+2023-04-20,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,68996.08,196339,20057,1893,10.22,3.44,351.41,25664
+2023-04-20,Paid Search,Google Search Ads 360,Profound intangible policy,67202.52,160231,14546,1309,9.08,4.62,419.41,0
+2023-04-20,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,19761.56,83207,3172,193,3.81,6.23,237.5,9677
+2023-04-20,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,66704,6664,720,9.99,0.0,0.0,0
+2023-04-21,Programmatic,StackAdapt,Automated uniform software,61630.92,184665,18234,1668,9.87,3.38,333.74,16856
+2023-04-21,Paid Search,Google Search Ads 360,Profound intangible policy,70542.39,149786,15711,1618,10.49,4.49,470.95,0
+2023-04-21,Paid Social,Facebook,Facebook B2B Decision Makers,10143.0,80986,2070,138,2.56,4.9,125.24,14998
+2023-04-21,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,58355,6026,514,10.33,0.0,0.0,0
+2023-04-22,Programmatic,StackAdapt,Automated uniform software,56542.98,142951,13273,1128,9.29,4.26,395.54,16430
+2023-04-22,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,60851.7,118591,13374,1383,11.28,4.55,513.12,0
+2023-04-22,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,10186.18,57497,2131,119,3.71,4.78,177.16,11896
+2023-04-22,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,44665,3854,367,8.63,0.0,0.0,0
+2023-04-23,Programmatic,StackAdapt,Business-focused zero tolerance architecture,75233.75,202852,17375,1677,8.57,4.33,370.88,32136
+2023-04-23,Paid Search,Google Search Ads 360,Profound intangible policy,61136.4,171199,15676,1605,9.16,3.9,357.11,0
+2023-04-23,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,26524.75,84901,4613,277,5.43,5.75,312.42,9146
+2023-04-23,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,59817,4998,559,8.36,0.0,0.0,0
+2023-04-24,Programmatic,StackAdapt,Automated uniform software,55491.0,179819,15900,1309,8.84,3.49,308.59,20703
+2023-04-24,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,72059.33,181809,19423,2053,10.68,3.71,396.35,0
+2023-04-24,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,25736.88,97289,4407,249,4.53,5.84,264.54,15186
+2023-04-24,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,53108,4425,431,8.33,0.0,0.0,0
+2023-04-25,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,80012.8,192582,21280,2057,11.05,3.76,415.47,26508
+2023-04-25,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,64823.42,144428,15361,1401,10.64,4.22,448.83,0
+2023-04-25,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,17557.77,81544,2941,165,3.61,5.97,215.32,8822
+2023-04-25,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,49221,3523,327,7.16,0.0,0.0,0
+2023-04-26,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,77967.36,202231,18432,1887,9.11,4.23,385.54,40826
+2023-04-26,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,70392.7,149757,15505,1864,10.35,4.54,470.05,0
+2023-04-26,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,9955.98,72320,1611,103,2.23,6.18,137.67,11239
+2023-04-26,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,66833,4626,474,6.92,0.0,0.0,0
+2023-04-27,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,73044.06,194996,21111,2212,10.83,3.46,374.59,29886
+2023-04-27,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,77633.05,156129,17765,1908,11.38,4.37,497.24,0
+2023-04-27,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,19141.95,101865,3449,252,3.39,5.55,187.91,10401
+2023-04-27,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,73613,7120,659,9.67,0.0,0.0,0
+2023-04-28,Programmatic,StackAdapt,Business-focused zero tolerance architecture,76112.28,240631,22452,2365,9.33,3.39,316.3,26056
+2023-04-28,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,66198.56,150713,17606,1934,11.68,3.76,439.24,0
+2023-04-28,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,22864.9,89804,3730,212,4.15,6.13,254.61,17287
+2023-04-28,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,69144,7169,685,10.37,0.0,0.0,0
+2023-04-29,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,101208.8,229439,23870,1975,10.4,4.24,441.11,32086
+2023-04-29,Paid Search,Google Search Ads 360,Integrated dedicated contingency,59236.92,154959,14004,1496,9.04,4.23,382.27,0
+2023-04-29,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,31263.96,103939,5317,301,5.12,5.88,300.79,11042
+2023-04-29,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,81934,8010,794,9.78,0.0,0.0,0
+2023-04-30,Programmatic,StackAdapt,Automated uniform software,68051.25,183060,18147,1830,9.91,3.75,371.74,23814
+2023-04-30,Paid Search,Google Search Ads 360,Networked value-added time-frame,71558.99,164406,18881,1884,11.48,3.79,435.26,0
+2023-04-30,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,23641.41,95340,4663,266,4.89,5.07,247.97,9522
+2023-04-30,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,61905,5138,541,8.3,0.0,0.0,0
+2023-05-01,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,73285.03,203407,19439,1971,9.56,3.77,360.29,44154
+2023-05-01,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,63588.46,170360,15977,1766,9.38,3.98,373.26,0
+2023-05-01,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,12661.11,92659,2079,121,2.24,6.09,136.64,10359
+2023-05-01,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,73393,5590,571,7.62,0.0,0.0,0
+2023-05-02,Programmatic,StackAdapt,Cross-platform static hierarchy,60877.59,197727,18617,1565,9.42,3.27,307.89,24231
+2023-05-02,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,93324.24,173986,20556,2398,11.81,4.54,536.39,0
+2023-05-02,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,26037.4,97524,4220,254,4.33,6.17,266.98,16959
+2023-05-02,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,67162,4663,449,6.94,0.0,0.0,0
+2023-05-03,Programmatic,StackAdapt,Cross-platform static hierarchy,91773.64,208543,21146,1875,10.14,4.34,440.07,19916
+2023-05-03,Paid Search,Google Search Ads 360,Profound intangible policy,63438.76,146970,13412,1509,9.13,4.73,431.64,0
+2023-05-03,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,22810.38,73772,3691,224,5.0,6.18,309.2,13688
+2023-05-03,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,68066,4473,499,6.57,0.0,0.0,0
+2023-05-04,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,84973.92,183255,20136,1731,10.99,4.22,463.69,17548
+2023-05-04,Paid Search,Google Search Ads 360,Profound intangible policy,73642.23,179146,19029,1756,10.62,3.87,411.07,0
+2023-05-04,Paid Social,Facebook,Facebook B2B Decision Makers,14653.74,71115,2589,158,3.64,5.66,206.06,8648
+2023-05-04,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,60957,5774,489,9.47,0.0,0.0,0
+2023-05-05,Programmatic,StackAdapt,Automated uniform software,106887.5,239455,25150,2378,10.5,4.25,446.38,25369
+2023-05-05,Paid Search,Google Search Ads 360,Profound intangible policy,51027.35,145446,14135,1615,9.72,3.61,350.83,0
+2023-05-05,Paid Social,Facebook,Facebook B2B Decision Makers,29273.36,96370,5284,380,5.48,5.54,303.76,8568
+2023-05-05,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,79234,7048,610,8.9,0.0,0.0,0
+2023-05-06,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,82201.59,184951,19433,1964,10.51,4.23,444.45,29601
+2023-05-06,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,56538.76,133351,13723,1361,10.29,4.12,423.98,0
+2023-05-06,Paid Social,Facebook,Facebook B2B Decision Makers,17409.38,78365,3218,233,4.11,5.41,222.16,12929
+2023-05-06,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,55753,4943,513,8.87,0.0,0.0,0
+2023-05-07,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,56372.46,168788,14874,1320,8.81,3.79,333.98,28915
+2023-05-07,Paid Search,Google Search Ads 360,Networked value-added time-frame,75119.03,165188,17843,2010,10.8,4.21,454.75,0
+2023-05-07,Paid Social,Facebook,Facebook B2B Decision Makers,9317.36,78652,1768,106,2.25,5.27,118.46,11494
+2023-05-07,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,45811,3234,295,7.06,0.0,0.0,0
+2023-05-08,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,78077.31,199755,19867,1661,9.95,3.93,390.87,23829
+2023-05-08,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,59513.92,157584,16624,1486,10.55,3.58,377.66,0
+2023-05-08,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,9403.54,84504,1798,103,2.13,5.23,111.28,16255
+2023-05-08,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,73459,6281,577,8.55,0.0,0.0,0
+2023-05-09,Programmatic,StackAdapt,Centralized modular throughput,59750.88,202979,17783,1693,8.76,3.36,294.37,26048
+2023-05-09,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,91514.25,176940,20565,2155,11.62,4.45,517.2,0
+2023-05-09,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,14769.43,112636,2771,167,2.46,5.33,131.13,15662
+2023-05-09,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,68055,6894,718,10.13,0.0,0.0,0
+2023-05-10,Programmatic,StackAdapt,Business-focused zero tolerance architecture,80843.79,176711,19387,2027,10.97,4.17,457.49,14175
+2023-05-10,Paid Search,Google Search Ads 360,Profound intangible policy,56162.55,168112,15387,1498,9.15,3.65,334.08,0
+2023-05-10,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,20698.38,88551,3898,224,4.4,5.31,233.75,12740
+2023-05-10,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,60426,4220,403,6.98,0.0,0.0,0
+2023-05-11,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,62367.2,165949,14504,1276,8.74,4.3,375.82,28808
+2023-05-11,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,64583.2,178867,18040,1947,10.09,3.58,361.07,0
+2023-05-11,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,29853.36,93879,4878,327,5.2,6.12,318.0,17025
+2023-05-11,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,56639,5726,488,10.11,0.0,0.0,0
+2023-05-12,Programmatic,StackAdapt,Business-focused zero tolerance architecture,48726.93,159923,13649,1226,8.54,3.57,304.69,23675
+2023-05-12,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,62512.8,160336,14640,1363,9.13,4.27,389.89,0
+2023-05-12,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,21481.73,77747,3539,240,4.55,6.07,276.3,13757
+2023-05-12,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,60469,5558,507,9.19,0.0,0.0,0
+2023-05-13,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,78863.04,192214,18912,1895,9.84,4.17,410.29,38454
+2023-05-13,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,74136.3,167509,17241,1711,10.29,4.3,442.58,0
+2023-05-13,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,17313.8,72630,2980,205,4.1,5.81,238.38,9618
+2023-05-13,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,49779,4092,358,8.22,0.0,0.0,0
+2023-05-14,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,69808.48,196186,17584,1387,8.96,3.97,355.83,33188
+2023-05-14,Paid Search,Google Search Ads 360,Profound intangible policy,59522.76,163121,15031,1535,9.22,3.96,364.9,0
+2023-05-14,Paid Social,Facebook,Facebook B2B Decision Makers,20617.97,99506,4099,255,4.12,5.03,207.2,21724
+2023-05-14,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,68409,6329,553,9.25,0.0,0.0,0
+2023-05-15,Programmatic,StackAdapt,Cross-platform static hierarchy,54730.71,148895,14913,1562,10.02,3.67,367.58,12724
+2023-05-15,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,45475.2,124289,12632,1191,10.16,3.6,365.88,0
+2023-05-15,Paid Social,Facebook,FB Lead Gen — Mid-Market,19970.72,89958,3242,197,3.6,6.16,222.0,8659
+2023-05-15,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,72357,5611,613,7.76,0.0,0.0,0
+2023-05-16,Programmatic,StackAdapt,Centralized modular throughput,107076.57,215943,24729,2130,11.45,4.33,495.86,29050
+2023-05-16,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,57219.68,151865,15218,1617,10.02,3.76,376.78,0
+2023-05-16,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,20436.9,86706,3378,236,3.9,6.05,235.7,12282
+2023-05-16,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,58628,4418,393,7.54,0.0,0.0,0
+2023-05-17,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,52879.68,146760,13664,1432,9.31,3.87,360.31,18876
+2023-05-17,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,55319.68,134727,12688,1309,9.42,4.36,410.61,0
+2023-05-17,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,14466.8,69304,2360,176,3.41,6.13,208.74,11592
+2023-05-17,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,53659,4819,429,8.98,0.0,0.0,0
+2023-05-18,Programmatic,StackAdapt,Business-focused zero tolerance architecture,50273.45,145122,14405,1342,9.93,3.49,346.42,31196
+2023-05-18,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,89962.88,172524,19264,2042,11.17,4.67,521.45,0
+2023-05-18,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,19239.88,67383,3212,185,4.77,5.99,285.53,7992
+2023-05-18,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,68242,7012,614,10.28,0.0,0.0,0
+2023-05-19,Programmatic,StackAdapt,Centralized modular throughput,84282.9,217193,21611,2205,9.95,3.9,388.06,28788
+2023-05-19,Paid Search,Google Search Ads 360,Integrated dedicated contingency,54144.16,138784,13336,1510,9.61,4.06,390.13,0
+2023-05-19,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,18464.7,81320,3027,201,3.72,6.1,227.06,17671
+2023-05-19,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,58471,5736,606,9.81,0.0,0.0,0
+2023-05-20,Programmatic,StackAdapt,Business-focused zero tolerance architecture,85482.6,223633,20353,1652,9.1,4.2,382.25,31639
+2023-05-20,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,98102.16,179484,20962,1912,11.68,4.68,546.58,0
+2023-05-20,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,19325.4,82321,3117,210,3.79,6.2,234.76,6805
+2023-05-20,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,62460,5778,604,9.25,0.0,0.0,0
+2023-05-21,Programmatic,StackAdapt,Business-focused zero tolerance architecture,65474.55,167877,15777,1389,9.4,4.15,390.02,19981
+2023-05-21,Paid Search,Google Search Ads 360,Networked value-added time-frame,83085.66,144896,17202,1540,11.87,4.83,573.42,0
+2023-05-21,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,21544.8,93571,4584,279,4.9,4.7,230.25,17151
+2023-05-21,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,74303,7030,615,9.46,0.0,0.0,0
+2023-05-22,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,97451.02,222029,23258,2310,10.48,4.19,438.91,36835
+2023-05-22,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,59576.16,139564,14602,1338,10.46,4.08,426.87,0
+2023-05-22,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,9297.18,85785,1913,118,2.23,4.86,108.38,16569
+2023-05-22,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,78788,5349,595,6.79,0.0,0.0,0
+2023-05-23,Programmatic,StackAdapt,Automated uniform software,61810.2,171016,14930,1373,8.73,4.14,361.43,30610
+2023-05-23,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,46149.22,127060,11713,1194,9.22,3.94,363.21,0
+2023-05-23,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,13668.21,73786,2201,156,2.98,6.21,185.24,10087
+2023-05-23,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,72041,5609,545,7.79,0.0,0.0,0
+2023-05-24,Programmatic,StackAdapt,Cross-platform static hierarchy,73531.64,176637,20201,1916,11.44,3.64,416.29,30150
+2023-05-24,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,57156.84,118345,13806,1450,11.67,4.14,482.97,0
+2023-05-24,Paid Social,Facebook,FB Lead Gen — Mid-Market,18664.4,76881,3218,182,4.19,5.8,242.77,8754
+2023-05-24,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,60517,5924,633,9.79,0.0,0.0,0
+2023-05-25,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,59836.62,189322,16903,1683,8.93,3.54,316.06,28310
+2023-05-25,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,48936.16,143001,13444,1466,9.4,3.64,342.21,0
+2023-05-25,Paid Social,Facebook,FB Lead Gen — Mid-Market,15759.6,91771,2855,157,3.11,5.52,171.73,7943
+2023-05-25,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,56997,5316,452,9.33,0.0,0.0,0
+2023-05-26,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,54740.32,165017,15248,1504,9.24,3.59,331.73,15555
+2023-05-26,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,62928.36,161973,15891,1840,9.81,3.96,388.51,0
+2023-05-26,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,32302.86,102076,5227,333,5.12,6.18,316.46,13558
+2023-05-26,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,81365,5579,577,6.86,0.0,0.0,0
+2023-05-27,Programmatic,StackAdapt,Automated uniform software,59054.09,175836,18283,1784,10.4,3.23,335.85,18176
+2023-05-27,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,82957.89,166499,18313,2191,11.0,4.53,498.25,0
+2023-05-27,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,20884.1,96580,4306,262,4.46,4.85,216.24,18297
+2023-05-27,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,64908,4344,407,6.69,0.0,0.0,0
+2023-05-28,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,72523.0,213312,20900,1898,9.8,3.47,339.99,28075
+2023-05-28,Paid Search,Google Search Ads 360,Integrated dedicated contingency,63096.43,168476,15427,1749,9.16,4.09,374.51,0
+2023-05-28,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,30666.24,107006,5324,316,4.98,5.76,286.58,15635
+2023-05-28,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,81903,6030,622,7.36,0.0,0.0,0
+2023-05-29,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,63683.29,175625,15647,1505,8.91,4.07,362.61,21810
+2023-05-29,Paid Search,Google Search Ads 360,Integrated dedicated contingency,65612.32,168641,17176,1918,10.19,3.82,389.07,0
+2023-05-29,Paid Social,Facebook,FB Lead Gen — Mid-Market,14090.58,98287,2954,184,3.01,4.77,143.36,9397
+2023-05-29,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,64167,4857,523,7.57,0.0,0.0,0
+2023-05-30,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,46954.21,146481,13933,1096,9.51,3.37,320.55,20201
+2023-05-30,Paid Search,Google Search Ads 360,Integrated dedicated contingency,56427.84,127905,13062,1384,10.21,4.32,441.17,0
+2023-05-30,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,11021.29,55000,1993,147,3.62,5.53,200.39,9617
+2023-05-30,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,47447,4552,482,9.6,0.0,0.0,0
+2023-05-31,Programmatic,StackAdapt,Business-focused zero tolerance architecture,80708.07,221226,19637,1544,8.88,4.11,364.82,42697
+2023-05-31,Paid Search,Google Search Ads 360,Profound intangible policy,50695.98,131340,12867,1155,9.8,3.94,385.99,0
+2023-05-31,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,18477.97,91620,3493,216,3.81,5.29,201.68,7346
+2023-05-31,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,56986,5177,579,9.09,0.0,0.0,0
+2023-06-01,Programmatic,StackAdapt,Centralized modular throughput,77048.12,167039,18701,1866,11.2,4.12,461.26,24073
+2023-06-01,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,63087.84,164954,16344,1492,9.91,3.86,382.46,0
+2023-06-01,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,16620.24,82421,3044,212,3.69,5.46,201.65,7261
+2023-06-01,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,81384,8358,889,10.27,0.0,0.0,0
+2023-06-02,Programmatic,StackAdapt,Centralized modular throughput,91151.45,219287,24973,2004,11.39,3.65,415.67,24462
+2023-06-02,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,67608.45,157700,14859,1617,9.42,4.55,428.72,0
+2023-06-02,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,14202.76,98756,2483,176,2.51,5.72,143.82,13267
+2023-06-02,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,76820,5791,541,7.54,0.0,0.0,0
+2023-06-03,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,77321.56,193136,19139,1966,9.91,4.04,400.35,17132
+2023-06-03,Paid Search,Google Search Ads 360,Profound intangible policy,56229.95,150884,13615,1485,9.02,4.13,372.67,0
+2023-06-03,Paid Social,Facebook,FB Lead Gen — Mid-Market,21704.67,79983,4281,280,5.35,5.07,271.37,12004
+2023-06-03,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,75315,5125,468,6.8,0.0,0.0,0
+2023-06-04,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,66698.8,200550,20335,1833,10.14,3.28,332.58,20697
+2023-06-04,Paid Search,Google Search Ads 360,Profound intangible policy,74066.11,166165,15997,1452,9.63,4.63,445.74,0
+2023-06-04,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,26156.13,108032,5159,370,4.78,5.07,242.11,23171
+2023-06-04,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,59709,6153,692,10.31,0.0,0.0,0
+2023-06-05,Programmatic,StackAdapt,Business-focused zero tolerance architecture,89829.59,235914,24083,2055,10.21,3.73,380.77,38477
+2023-06-05,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,56601.36,136711,14856,1785,10.87,3.81,414.02,0
+2023-06-05,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,31832.1,98219,5085,374,5.18,6.26,324.09,15027
+2023-06-05,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,78536,7483,658,9.53,0.0,0.0,0
+2023-06-06,Programmatic,StackAdapt,Business-focused zero tolerance architecture,73392.06,199030,18394,1763,9.24,3.99,368.75,20455
+2023-06-06,Paid Search,Google Search Ads 360,Profound intangible policy,63571.72,156508,17708,1858,11.31,3.59,406.19,0
+2023-06-06,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,10726.2,65376,2124,155,3.25,5.05,164.07,11036
+2023-06-06,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,54231,4222,456,7.79,0.0,0.0,0
+2023-06-07,Programmatic,StackAdapt,Cross-platform static hierarchy,61670.7,166725,16315,1288,9.79,3.78,369.89,28800
+2023-06-07,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,65553.07,140469,13859,1410,9.87,4.73,466.67,0
+2023-06-07,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,12077.07,105851,2283,160,2.16,5.29,114.1,14283
+2023-06-07,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,73049,7431,826,10.17,0.0,0.0,0
+2023-06-08,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,75050.91,178536,19393,1650,10.86,3.87,420.37,23245
+2023-06-08,Paid Search,Google Search Ads 360,Profound intangible policy,77099.0,167685,16300,1553,9.72,4.73,459.78,0
+2023-06-08,Paid Social,Facebook,Facebook B2B Decision Makers,12646.32,70754,2668,158,3.77,4.74,178.74,6017
+2023-06-08,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,54919,5473,501,9.97,0.0,0.0,0
+2023-06-09,Programmatic,StackAdapt,Cross-platform static hierarchy,82374.48,219829,21564,2031,9.81,3.82,374.72,40938
+2023-06-09,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,77549.92,161965,16292,1912,10.06,4.76,478.81,0
+2023-06-09,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,20726.16,109469,3796,267,3.47,5.46,189.33,16382
+2023-06-09,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,62577,5547,492,8.86,0.0,0.0,0
+2023-06-10,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,59954.03,198582,18113,1452,9.12,3.31,301.91,42041
+2023-06-10,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,68662.44,145308,14862,1706,10.23,4.62,472.53,0
+2023-06-10,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,18385.92,72096,3192,224,4.43,5.76,255.02,7297
+2023-06-10,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,66677,5771,528,8.66,0.0,0.0,0
+2023-06-11,Programmatic,StackAdapt,Automated uniform software,42044.91,146533,13017,1292,8.88,3.23,286.93,20268
+2023-06-11,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,53334.05,151173,13853,1661,9.16,3.85,352.8,0
+2023-06-11,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,10558.08,73648,2256,134,3.06,4.68,143.36,13411
+2023-06-11,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,71120,5260,540,7.4,0.0,0.0,0
+2023-06-12,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,80024.4,227577,22229,1924,9.77,3.6,351.64,40910
+2023-06-12,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,84309.0,187540,17900,1806,9.54,4.71,449.55,0
+2023-06-12,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,28876.96,99663,5428,379,5.45,5.32,289.75,16214
+2023-06-12,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,70867,4828,479,6.81,0.0,0.0,0
+2023-06-13,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,80265.6,171380,18580,1752,10.84,4.32,468.35,14728
+2023-06-13,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,72092.16,149275,16128,1590,10.8,4.47,482.95,0
+2023-06-13,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,12601.37,96963,2287,149,2.36,5.51,129.96,12769
+2023-06-13,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,77306,7583,787,9.81,0.0,0.0,0
+2023-06-14,Programmatic,StackAdapt,Business-focused zero tolerance architecture,89153.54,194970,21959,2138,11.26,4.06,457.27,39118
+2023-06-14,Paid Search,Google Search Ads 360,Integrated dedicated contingency,68739.42,150090,17142,1635,11.42,4.01,457.99,0
+2023-06-14,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,25995.97,82214,4459,320,5.42,5.83,316.2,14945
+2023-06-14,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,67639,6958,681,10.29,0.0,0.0,0
+2023-06-15,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,61017.42,153119,16626,1637,10.86,3.67,398.5,12789
+2023-06-15,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,72472.7,167474,15130,1685,9.03,4.79,432.74,0
+2023-06-15,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,13027.28,76693,2164,149,2.82,6.02,169.86,12002
+2023-06-15,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,70011,4695,460,6.71,0.0,0.0,0
+2023-06-16,Programmatic,StackAdapt,Cross-platform static hierarchy,79195.62,227021,20517,2057,9.04,3.86,348.85,30765
+2023-06-16,Paid Search,Google Search Ads 360,Networked value-added time-frame,64690.56,140879,16336,1538,11.6,3.96,459.19,0
+2023-06-16,Paid Social,Facebook,FB Lead Gen — Mid-Market,24415.24,80716,4076,278,5.05,5.99,302.48,9287
+2023-06-16,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,69388,6097,657,8.79,0.0,0.0,0
+2023-06-17,Programmatic,StackAdapt,Cross-platform static hierarchy,68673.26,169088,17791,1416,10.52,3.86,406.14,20335
+2023-06-17,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,64829.52,161538,16248,1768,10.06,3.99,401.33,0
+2023-06-17,Paid Social,Facebook,Facebook B2B Decision Makers,20811.42,102061,3486,197,3.42,5.97,203.91,12247
+2023-06-17,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,68144,6297,586,9.24,0.0,0.0,0
+2023-06-18,Programmatic,StackAdapt,Business-focused zero tolerance architecture,67396.0,148669,16849,1616,11.33,4.0,453.33,25053
+2023-06-18,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,43541.6,114761,11768,1328,10.26,3.7,379.41,0
+2023-06-18,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,11831.49,63401,1881,119,2.97,6.29,186.61,5671
+2023-06-18,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,52578,3794,424,7.22,0.0,0.0,0
+2023-06-19,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,61196.45,153963,16495,1610,10.71,3.71,397.48,19786
+2023-06-19,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,52387.94,127983,12533,1199,9.79,4.18,409.34,0
+2023-06-19,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,12170.07,64582,1941,132,3.01,6.27,188.44,10624
+2023-06-19,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,44347,3016,335,6.8,0.0,0.0,0
+2023-06-20,Programmatic,StackAdapt,Business-focused zero tolerance architecture,58744.09,143707,14797,1411,10.3,3.97,408.78,16876
+2023-06-20,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,60646.82,115351,13721,1333,11.9,4.42,525.76,0
+2023-06-20,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,17489.92,82632,3416,209,4.14,5.12,211.66,13524
+2023-06-20,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,65625,6750,583,10.29,0.0,0.0,0
+2023-06-21,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,71037.26,191707,20531,2105,10.71,3.46,370.55,31106
+2023-06-21,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,58079.02,146540,16178,1651,11.04,3.59,396.34,0
+2023-06-21,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,13496.56,74734,2156,138,2.89,6.26,180.59,10153
+2023-06-21,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,61625,4470,460,7.25,0.0,0.0,0
+2023-06-22,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,51359.18,180385,15377,1386,8.52,3.34,284.72,33330
+2023-06-22,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,88468.76,208440,21473,2091,10.3,4.12,424.43,0
+2023-06-22,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,12005.9,103879,2110,140,2.03,5.69,115.58,17584
+2023-06-22,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,64137,6000,515,9.36,0.0,0.0,0
+2023-06-23,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,71670.69,190550,20419,1604,10.72,3.51,376.13,20963
+2023-06-23,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,50663.2,125313,12208,1113,9.74,4.15,404.29,0
+2023-06-23,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,15949.96,80429,3316,226,4.12,4.81,198.31,17148
+2023-06-23,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,62656,6090,654,9.72,0.0,0.0,0
+2023-06-24,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,80021.04,215509,19613,1867,9.1,4.08,371.31,39504
+2023-06-24,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,77491.59,177981,16383,1653,9.21,4.73,435.39,0
+2023-06-24,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,19953.12,97295,3779,228,3.88,5.28,205.08,19979
+2023-06-24,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,75286,7264,702,9.65,0.0,0.0,0
+2023-06-25,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,68628.27,173310,18399,1655,10.62,3.73,395.99,29619
+2023-06-25,Paid Search,Google Search Ads 360,Networked value-added time-frame,68307.78,188612,17337,1997,9.19,3.94,362.16,0
+2023-06-25,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,9559.0,83725,1738,106,2.08,5.5,114.17,7356
+2023-06-25,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,64006,6534,564,10.21,0.0,0.0,0
+2023-06-26,Programmatic,StackAdapt,Centralized modular throughput,69192.31,193891,20291,1732,10.47,3.41,356.86,19866
+2023-06-26,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,62094.24,138833,13268,1461,9.56,4.68,447.26,0
+2023-06-26,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,22793.9,100638,4426,254,4.4,5.15,226.49,12416
+2023-06-26,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,60346,5165,511,8.56,0.0,0.0,0
+2023-06-27,Programmatic,StackAdapt,Cross-platform static hierarchy,64977.0,165220,18150,1814,10.99,3.58,393.28,34354
+2023-06-27,Paid Search,Google Search Ads 360,Profound intangible policy,72571.98,172723,17238,1730,9.98,4.21,420.16,0
+2023-06-27,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,24732.68,91754,4649,266,5.07,5.32,269.55,14448
+2023-06-27,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,58567,4261,462,7.28,0.0,0.0,0
+2023-06-28,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,91754.27,222091,24599,2431,11.08,3.73,413.14,36750
+2023-06-28,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,68939.88,140889,15527,1473,11.02,4.44,489.32,0
+2023-06-28,Paid Social,Facebook,Facebook B2B Decision Makers,8751.6,77549,1870,109,2.41,4.68,112.85,14007
+2023-06-28,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,71278,6101,537,8.56,0.0,0.0,0
+2023-06-29,Programmatic,StackAdapt,Centralized modular throughput,40365.0,127822,11500,1182,9.0,3.51,315.79,16565
+2023-06-29,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,46594.24,111066,10736,1133,9.67,4.34,419.52,0
+2023-06-29,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,7038.46,63174,1391,87,2.2,5.06,111.41,6995
+2023-06-29,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,62458,5599,558,8.97,0.0,0.0,0
+2023-06-30,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,71020.69,174100,17623,1716,10.12,4.03,407.93,18112
+2023-06-30,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,66795.45,149334,15285,1783,10.24,4.37,447.29,0
+2023-06-30,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,9442.93,80677,1939,130,2.4,4.87,117.05,10262
+2023-06-30,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,51197,4745,424,9.27,0.0,0.0,0
+2023-07-01,Programmatic,StackAdapt,Cross-platform static hierarchy,123828.67,366261,33377,3077,9.11,3.71,338.09,30230
+2023-07-01,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,115996.56,294369,27102,2823,9.21,4.28,394.05,0
+2023-07-01,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,30560.04,147759,6516,392,4.41,4.69,206.82,26786
+2023-07-01,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,106907,10524,1130,9.84,0.0,0.0,0
+2023-07-02,Programmatic,StackAdapt,Automated uniform software,123169.42,346640,32933,3294,9.5,3.74,355.32,36633
+2023-07-02,Paid Search,Google Search Ads 360,Integrated dedicated contingency,141860.18,331861,38654,4017,11.65,3.67,427.47,0
+2023-07-02,Paid Social,Facebook,FB Lead Gen — Mid-Market,35686.23,148032,7123,518,4.81,5.01,241.07,13230
+2023-07-02,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,133785,10779,1069,8.06,0.0,0.0,0
+2023-07-03,Programmatic,StackAdapt,Centralized modular throughput,113035.44,295684,30884,2478,10.44,3.66,382.28,56929
+2023-07-03,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,138128.21,290151,34793,3717,11.99,3.97,476.06,0
+2023-07-03,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,21818.45,141179,4555,284,3.23,4.79,154.54,18598
+2023-07-03,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,117527,11036,1132,9.39,0.0,0.0,0
+2023-07-04,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,94231.62,272359,24929,2404,9.15,3.78,345.98,21991
+2023-07-04,Paid Search,Google Search Ads 360,Integrated dedicated contingency,130932.8,316936,35872,3821,11.32,3.65,413.12,0
+2023-07-04,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,39906.72,166743,6741,475,4.04,5.92,239.33,32084
+2023-07-04,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,113824,8037,828,7.06,0.0,0.0,0
+2023-07-05,Programmatic,StackAdapt,Automated uniform software,139727.25,364910,32877,2747,9.01,4.25,382.91,67507
+2023-07-05,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,159642.35,322497,36365,3929,11.28,4.39,495.02,0
+2023-07-05,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,33908.54,170868,6878,464,4.03,4.93,198.45,25006
+2023-07-05,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,120489,9137,815,7.58,0.0,0.0,0
+2023-07-06,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,108485.16,278480,25466,2290,9.14,4.26,389.56,42047
+2023-07-06,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,84681.45,226519,20909,2324,9.23,4.05,373.84,0
+2023-07-06,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,34365.44,155812,6712,475,4.31,5.12,220.56,27567
+2023-07-06,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,93761,9616,980,10.26,0.0,0.0,0
+2023-07-07,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,89241.12,282658,25644,2497,9.07,3.48,315.72,46170
+2023-07-07,Paid Search,Google Search Ads 360,Profound intangible policy,117485.55,235042,25821,2967,10.99,4.55,499.85,0
+2023-07-07,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,23669.8,152823,4060,231,2.66,5.83,154.88,20106
+2023-07-07,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,100979,6689,608,6.62,0.0,0.0,0
+2023-07-08,Programmatic,StackAdapt,Automated uniform software,100951.44,334474,30872,2889,9.23,3.27,301.82,57983
+2023-07-08,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,104662.06,224888,26297,3082,11.69,3.98,465.4,0
+2023-07-08,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,49877.19,149779,8217,586,5.49,6.07,333.01,17203
+2023-07-08,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,99778,6753,581,6.77,0.0,0.0,0
+2023-07-09,Programmatic,StackAdapt,Business-focused zero tolerance architecture,151517.9,334961,35990,3615,10.74,4.21,452.34,73580
+2023-07-09,Paid Search,Google Search Ads 360,Integrated dedicated contingency,91489.44,268920,24528,2506,9.12,3.73,340.21,0
+2023-07-09,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,23674.2,129406,4220,297,3.26,5.61,182.95,16019
+2023-07-09,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,127380,9461,792,7.43,0.0,0.0,0
+2023-07-10,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,162326.12,360012,38834,3078,10.79,4.18,450.89,60026
+2023-07-10,Paid Search,Google Search Ads 360,Profound intangible policy,137368.32,293110,31872,3712,10.87,4.31,468.66,0
+2023-07-10,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,46467.0,157395,8605,602,5.47,5.4,295.23,28179
+2023-07-10,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,109278,8103,817,7.42,0.0,0.0,0
+2023-07-11,Programmatic,StackAdapt,Centralized modular throughput,137415.47,415737,39601,3673,9.53,3.47,330.53,91207
+2023-07-11,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,172555.41,352595,38603,4423,10.95,4.47,489.39,0
+2023-07-11,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,20705.04,163578,3576,229,2.19,5.79,126.58,28602
+2023-07-11,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,112273,11526,1016,10.27,0.0,0.0,0
+2023-07-12,Programmatic,StackAdapt,Centralized modular throughput,130764.06,348766,36939,3549,10.59,3.54,374.93,35528
+2023-07-12,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,137109.32,284704,30742,2917,10.8,4.46,481.59,0
+2023-07-12,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,30424.64,141429,6134,439,4.34,4.96,215.12,11693
+2023-07-12,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,120066,10732,1114,8.94,0.0,0.0,0
+2023-07-13,Programmatic,StackAdapt,Centralized modular throughput,168480.66,390540,44454,4133,11.38,3.79,431.4,53216
+2023-07-13,Paid Search,Google Search Ads 360,Integrated dedicated contingency,126773.46,250077,26802,2625,10.72,4.73,506.94,0
+2023-07-13,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,31025.68,159972,6518,405,4.07,4.76,193.94,13508
+2023-07-13,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,112554,7696,778,6.84,0.0,0.0,0
+2023-07-14,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,178752.39,405257,42459,3567,10.48,4.21,441.08,82693
+2023-07-14,Paid Search,Google Search Ads 360,Integrated dedicated contingency,132137.58,257323,28851,2835,11.21,4.58,513.51,0
+2023-07-14,Paid Social,Facebook,FB Lead Gen — Mid-Market,22463.7,187256,3941,286,2.11,5.7,119.96,40498
+2023-07-14,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,115503,11422,972,9.89,0.0,0.0,0
+2023-07-15,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,123849.6,258079,29488,2970,11.43,4.2,479.89,54535
+2023-07-15,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,84610.56,216948,22034,2015,10.16,3.84,390.0,0
+2023-07-15,Paid Social,Facebook,FB Lead Gen — Mid-Market,21804.2,123711,4505,272,3.64,4.84,176.25,12797
+2023-07-15,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,89366,9287,980,10.39,0.0,0.0,0
+2023-07-16,Programmatic,StackAdapt,Business-focused zero tolerance architecture,117302.4,349057,32584,3265,9.34,3.6,336.06,42554
+2023-07-16,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,100463.82,266173,24991,2432,9.39,4.02,377.44,0
+2023-07-16,Paid Social,Facebook,Facebook B2B Decision Makers,22669.72,170032,3772,223,2.22,6.01,133.33,17099
+2023-07-16,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,111721,11125,977,9.96,0.0,0.0,0
+2023-07-17,Programmatic,StackAdapt,Business-focused zero tolerance architecture,114050.3,292138,27482,2576,9.41,4.15,390.4,28980
+2023-07-17,Paid Search,Google Search Ads 360,Networked value-added time-frame,115945.48,252871,26593,2494,10.52,4.36,458.52,0
+2023-07-17,Paid Social,Facebook,Facebook B2B Decision Makers,23919.15,118818,4405,250,3.71,5.43,201.31,14603
+2023-07-17,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,110621,7442,711,6.73,0.0,0.0,0
+2023-07-18,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,147368.28,349898,35769,3455,10.22,4.12,421.17,70227
+2023-07-18,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,126664.78,247590,26279,3040,10.61,4.82,511.59,0
+2023-07-18,Paid Social,Facebook,Facebook B2B Decision Makers,29816.68,164898,5441,321,3.3,5.48,180.82,30313
+2023-07-18,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,106684,8996,971,8.43,0.0,0.0,0
+2023-07-19,Programmatic,StackAdapt,Business-focused zero tolerance architecture,130938.75,359214,34917,3046,9.72,3.75,364.51,67080
+2023-07-19,Paid Search,Google Search Ads 360,Networked value-added time-frame,80874.81,222536,21339,2544,9.59,3.79,363.42,0
+2023-07-19,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,33137.02,143345,5773,374,4.03,5.74,231.17,16079
+2023-07-19,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,106878,8538,877,7.99,0.0,0.0,0
+2023-07-20,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,96629.16,306621,27767,2384,9.06,3.48,315.14,32378
+2023-07-20,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,132601.57,280845,27683,3279,9.86,4.79,472.15,0
+2023-07-20,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,20413.92,136296,3408,213,2.5,5.99,149.78,17914
+2023-07-20,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,82970,7240,782,8.73,0.0,0.0,0
+2023-07-21,Programmatic,StackAdapt,Cross-platform static hierarchy,109968.0,300433,31600,2663,10.52,3.48,366.03,60798
+2023-07-21,Paid Search,Google Search Ads 360,Profound intangible policy,118379.83,258941,25349,2262,9.79,4.67,457.17,0
+2023-07-21,Paid Social,Facebook,FB Lead Gen — Mid-Market,35456.56,171431,7192,502,4.2,4.93,206.83,24714
+2023-07-21,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,108252,7442,726,6.88,0.0,0.0,0
+2023-07-22,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,94857.0,289111,27102,2274,9.37,3.5,328.1,59898
+2023-07-22,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,113961.84,291473,30309,3431,10.4,3.76,390.99,0
+2023-07-22,Paid Social,Facebook,Facebook B2B Decision Makers,34696.8,156661,5490,367,3.5,6.32,221.48,29408
+2023-07-22,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,113273,11112,981,9.81,0.0,0.0,0
+2023-07-23,Programmatic,StackAdapt,Automated uniform software,95746.59,255886,24363,2248,9.52,3.93,374.18,53092
+2023-07-23,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,92058.61,242781,25501,2316,10.5,3.61,379.18,0
+2023-07-23,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,22971.0,131614,4650,333,3.53,4.94,174.53,10989
+2023-07-23,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,94759,7059,598,7.45,0.0,0.0,0
+2023-07-24,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,101750.95,287321,29665,2549,10.32,3.43,354.14,38261
+2023-07-24,Paid Search,Google Search Ads 360,Integrated dedicated contingency,120572.25,317656,32325,3649,10.18,3.73,379.57,0
+2023-07-24,Paid Social,Facebook,Facebook B2B Decision Makers,26613.84,167682,4744,324,2.83,5.61,158.72,35226
+2023-07-24,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,108279,7324,614,6.76,0.0,0.0,0
+2023-07-25,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,137541.9,350972,37995,3217,10.83,3.62,391.89,29556
+2023-07-25,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,147225.0,343072,37750,4478,11.0,3.9,429.14,0
+2023-07-25,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,42842.06,161346,7058,433,4.37,6.07,265.53,34302
+2023-07-25,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,133677,12640,1156,9.46,0.0,0.0,0
+2023-07-26,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,125934.88,365413,31172,3053,8.53,4.04,344.64,61088
+2023-07-26,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,112037.76,307259,30528,3051,9.94,3.67,364.64,0
+2023-07-26,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,23595.0,133876,3900,241,2.91,6.05,176.25,28243
+2023-07-26,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,89841,7178,793,7.99,0.0,0.0,0
+2023-07-27,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,74800.0,244764,22000,2081,8.99,3.4,305.6,52754
+2023-07-27,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,104224.64,238514,25054,2430,10.5,4.16,436.97,0
+2023-07-27,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,36065.78,138395,6406,448,4.63,5.63,260.6,28593
+2023-07-27,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,109860,10467,889,9.53,0.0,0.0,0
+2023-07-28,Programmatic,StackAdapt,Cross-platform static hierarchy,98829.27,255312,26783,2398,10.49,3.69,387.09,52043
+2023-07-28,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,144988.2,278452,32655,3237,11.73,4.44,520.69,0
+2023-07-28,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,16280.68,116507,3107,182,2.67,5.24,139.74,16333
+2023-07-28,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,108895,7600,797,6.98,0.0,0.0,0
+2023-07-29,Programmatic,StackAdapt,Automated uniform software,116494.54,298590,29794,2576,9.98,3.91,390.15,42023
+2023-07-29,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,103657.68,235389,22008,2343,9.35,4.71,440.37,0
+2023-07-29,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,38545.47,135955,6207,422,4.57,6.21,283.52,26502
+2023-07-29,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,111652,10191,1118,9.13,0.0,0.0,0
+2023-07-30,Programmatic,StackAdapt,Automated uniform software,104141.7,294819,25155,2540,8.53,4.14,353.24,27896
+2023-07-30,Paid Search,Google Search Ads 360,Profound intangible policy,136002.75,272086,28275,2629,10.39,4.81,499.85,0
+2023-07-30,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,16415.43,124718,2787,186,2.24,5.89,131.62,10543
+2023-07-30,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,112291,9689,836,8.63,0.0,0.0,0
+2023-07-31,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,120527.68,308590,28973,3016,9.39,4.16,390.58,67179
+2023-07-31,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,108061.48,226284,26948,2771,11.91,4.01,477.55,0
+2023-07-31,Paid Social,Facebook,Facebook B2B Decision Makers,12988.56,109505,2392,164,2.18,5.43,118.61,12233
+2023-07-31,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,104705,7864,788,7.51,0.0,0.0,0
+2023-08-01,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,78930.72,198360,21744,1986,10.96,3.63,397.92,25937
+2023-08-01,Paid Search,Google Search Ads 360,Networked value-added time-frame,60352.0,164256,16400,1571,9.98,3.68,367.43,0
+2023-08-01,Paid Social,Facebook,FB Lead Gen — Mid-Market,14308.56,77017,2839,203,3.69,5.04,185.78,10269
+2023-08-01,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,65765,6441,609,9.79,0.0,0.0,0
+2023-08-02,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,81231.15,167609,18935,1542,11.3,4.29,484.65,29455
+2023-08-02,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,56985.36,153518,13967,1455,9.1,4.08,371.2,0
+2023-08-02,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,16816.8,69898,3003,222,4.3,5.6,240.59,12586
+2023-08-02,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,50173,4099,355,8.17,0.0,0.0,0
+2023-08-03,Programmatic,StackAdapt,Cross-platform static hierarchy,85718.82,225212,23614,1896,10.49,3.63,380.61,35379
+2023-08-03,Paid Search,Google Search Ads 360,Integrated dedicated contingency,76609.68,153489,17652,2028,11.5,4.34,499.12,0
+2023-08-03,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,12303.14,80847,2339,134,2.89,5.26,152.18,11144
+2023-08-03,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,68360,6243,532,9.13,0.0,0.0,0
+2023-08-04,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,45680.56,155256,13927,1407,8.97,3.28,294.23,21531
+2023-08-04,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,57757.18,128575,14963,1598,11.64,3.86,449.21,0
+2023-08-04,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,18189.36,79144,3609,266,4.56,5.04,229.83,16150
+2023-08-04,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,69602,7075,721,10.17,0.0,0.0,0
+2023-08-05,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,79696.0,185219,19924,1850,10.76,4.0,430.28,25927
+2023-08-05,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,92991.36,175433,20128,1889,11.47,4.62,530.07,0
+2023-08-05,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,22853.6,87015,4312,274,4.96,5.3,262.64,18108
+2023-08-05,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,57833,5712,557,9.88,0.0,0.0,0
+2023-08-06,Programmatic,StackAdapt,Centralized modular throughput,57202.11,171184,17493,1524,10.22,3.27,334.16,20213
+2023-08-06,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,60223.79,123986,14797,1770,11.94,4.07,485.73,0
+2023-08-06,Paid Social,Facebook,FB Lead Gen — Mid-Market,17316.0,89921,2886,197,3.21,6.0,192.57,19112
+2023-08-06,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,59329,5715,520,9.63,0.0,0.0,0
+2023-08-07,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,72159.95,174532,17995,1734,10.31,4.01,413.45,16904
+2023-08-07,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,77515.9,210977,20134,2191,9.54,3.85,367.41,0
+2023-08-07,Paid Social,Facebook,Facebook B2B Decision Makers,17072.64,88347,3456,219,3.91,4.94,193.25,9182
+2023-08-07,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,69446,6617,725,9.53,0.0,0.0,0
+2023-08-08,Programmatic,StackAdapt,Automated uniform software,53073.3,151531,13335,1048,8.8,3.98,350.25,24903
+2023-08-08,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,51152.64,114135,11072,996,9.7,4.62,448.18,0
+2023-08-08,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,12653.81,83714,2071,123,2.47,6.11,151.16,17555
+2023-08-08,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,51070,3422,289,6.7,0.0,0.0,0
+2023-08-09,Programmatic,StackAdapt,Automated uniform software,50365.8,181054,15545,1465,8.59,3.24,278.18,34442
+2023-08-09,Paid Search,Google Search Ads 360,Profound intangible policy,53984.48,145427,13264,1429,9.12,4.07,371.21,0
+2023-08-09,Paid Social,Facebook,FB Lead Gen — Mid-Market,22838.4,100003,3904,236,3.9,5.85,228.38,11801
+2023-08-09,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,73248,5859,582,8.0,0.0,0.0,0
+2023-08-10,Programmatic,StackAdapt,Business-focused zero tolerance architecture,58171.32,151570,16668,1674,11.0,3.49,383.79,16922
+2023-08-10,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,71597.16,146674,17294,1595,11.79,4.14,488.14,0
+2023-08-10,Paid Social,Facebook,Facebook B2B Decision Makers,16440.5,64902,3275,186,5.05,5.02,253.31,12029
+2023-08-10,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,42717,3618,348,8.47,0.0,0.0,0
+2023-08-11,Programmatic,StackAdapt,Business-focused zero tolerance architecture,65269.36,166726,16822,1390,10.09,3.88,391.48,32138
+2023-08-11,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,59248.23,160151,15153,1423,9.46,3.91,369.95,0
+2023-08-11,Paid Social,Facebook,FB Lead Gen — Mid-Market,11948.85,73064,2505,171,3.43,4.77,163.54,6199
+2023-08-11,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,55513,5156,458,9.29,0.0,0.0,0
+2023-08-12,Programmatic,StackAdapt,Automated uniform software,69643.56,174833,19508,2007,11.16,3.57,398.34,19616
+2023-08-12,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,69670.93,155460,15113,1668,9.72,4.61,448.16,0
+2023-08-12,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,22135.7,91913,4490,282,4.89,4.93,240.83,16848
+2023-08-12,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,60873,5591,510,9.19,0.0,0.0,0
+2023-08-13,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,73667.16,189271,16974,1790,8.97,4.34,389.22,36176
+2023-08-13,Paid Search,Google Search Ads 360,Profound intangible policy,59122.92,140167,15044,1753,10.73,3.93,421.8,0
+2023-08-13,Paid Social,Facebook,FB Lead Gen — Mid-Market,15553.58,69365,2891,182,4.17,5.38,224.23,8756
+2023-08-13,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,54059,5353,477,9.9,0.0,0.0,0
+2023-08-14,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,102995.88,227894,24999,2338,10.97,4.12,451.95,18748
+2023-08-14,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,87497.46,199042,18153,2129,9.12,4.82,439.59,0
+2023-08-14,Paid Social,Facebook,Facebook B2B Decision Makers,12032.76,86407,2364,165,2.74,5.09,139.26,17383
+2023-08-14,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,59403,4160,466,7.0,0.0,0.0,0
+2023-08-15,Programmatic,StackAdapt,Business-focused zero tolerance architecture,82438.44,222571,21084,2042,9.47,3.91,370.39,36599
+2023-08-15,Paid Search,Google Search Ads 360,Networked value-added time-frame,73480.4,174768,18745,1926,10.73,3.92,420.45,0
+2023-08-15,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,13586.1,96199,2685,184,2.79,5.06,141.23,16117
+2023-08-15,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,71589,5279,449,7.37,0.0,0.0,0
+2023-08-16,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,75579.9,168088,18570,1475,11.05,4.07,449.64,21479
+2023-08-16,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,65320.32,133222,15702,1565,11.79,4.16,490.31,0
+2023-08-16,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,6225.68,57726,1319,79,2.29,4.72,107.85,9720
+2023-08-16,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,52168,4534,400,8.69,0.0,0.0,0
+2023-08-17,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,88578.5,182891,20842,1658,11.4,4.25,484.32,29402
+2023-08-17,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,56683.04,146693,15403,1408,10.5,3.68,386.41,0
+2023-08-17,Paid Social,Facebook,Facebook B2B Decision Makers,13556.9,79365,2534,185,3.19,5.35,170.82,7941
+2023-08-17,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,62128,4767,470,7.67,0.0,0.0,0
+2023-08-18,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,99408.0,228498,24852,2407,10.88,4.0,435.05,48539
+2023-08-18,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,52108.8,150731,13570,1327,9.0,3.84,345.71,0
+2023-08-18,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,18475.7,93206,3931,262,4.22,4.7,198.22,16966
+2023-08-18,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,61020,5589,557,9.16,0.0,0.0,0
+2023-08-19,Programmatic,StackAdapt,Automated uniform software,56038.04,149072,13093,1324,8.78,4.28,375.91,25486
+2023-08-19,Paid Search,Google Search Ads 360,Networked value-added time-frame,56843.15,122414,12493,1401,10.21,4.55,464.35,0
+2023-08-19,Paid Social,Facebook,FB Lead Gen — Mid-Market,6911.64,65746,1314,90,2.0,5.26,105.13,7602
+2023-08-19,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,46858,4058,439,8.66,0.0,0.0,0
+2023-08-20,Programmatic,StackAdapt,Business-focused zero tolerance architecture,84873.68,218940,21988,1771,10.04,3.86,387.66,29162
+2023-08-20,Paid Search,Google Search Ads 360,Networked value-added time-frame,69545.43,185394,18847,1824,10.17,3.69,375.12,0
+2023-08-20,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,12927.6,87794,2052,120,2.34,6.3,147.25,12482
+2023-08-20,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,72016,7197,810,9.99,0.0,0.0,0
+2023-08-21,Programmatic,StackAdapt,Cross-platform static hierarchy,74663.46,213422,20234,1753,9.48,3.69,349.84,37167
+2023-08-21,Paid Search,Google Search Ads 360,Profound intangible policy,73717.53,169613,16869,1576,9.95,4.37,434.62,0
+2023-08-21,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,16837.04,71780,2888,198,4.02,5.83,234.56,13314
+2023-08-21,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,72668,6176,647,8.5,0.0,0.0,0
+2023-08-22,Programmatic,StackAdapt,Automated uniform software,53870.96,167940,14404,1239,8.58,3.74,320.78,27944
+2023-08-22,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,83602.2,182404,17490,1630,9.59,4.78,458.34,0
+2023-08-22,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,14727.08,71957,2644,176,3.67,5.57,204.67,6623
+2023-08-22,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,52662,3645,366,6.92,0.0,0.0,0
+2023-08-23,Programmatic,StackAdapt,Automated uniform software,57157.28,167346,17426,1757,10.41,3.28,341.55,25058
+2023-08-23,Paid Search,Google Search Ads 360,Integrated dedicated contingency,71093.54,167896,16381,1620,9.76,4.34,423.44,0
+2023-08-23,Paid Social,Facebook,Facebook B2B Decision Makers,27430.2,96491,4665,310,4.83,5.88,284.28,12647
+2023-08-23,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,65951,5516,490,8.36,0.0,0.0,0
+2023-08-24,Programmatic,StackAdapt,Centralized modular throughput,62757.5,201663,19310,1995,9.58,3.25,311.2,25048
+2023-08-24,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,60959.22,135212,15278,1701,11.3,3.99,450.84,0
+2023-08-24,Paid Social,Facebook,FB Lead Gen — Mid-Market,17213.92,93807,3176,222,3.39,5.42,183.5,12919
+2023-08-24,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,77167,5790,502,7.5,0.0,0.0,0
+2023-08-25,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,78622.78,225462,21719,1735,9.63,3.62,348.72,34006
+2023-08-25,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,62149.68,136796,15012,1811,10.97,4.14,454.32,0
+2023-08-25,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,16569.39,79464,2703,155,3.4,6.13,208.51,10972
+2023-08-25,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,60422,5521,531,9.14,0.0,0.0,0
+2023-08-26,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,69423.39,159835,17487,1821,10.94,3.97,434.34,34147
+2023-08-26,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,62354.3,139010,14501,1569,10.43,4.3,448.56,0
+2023-08-26,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,14012.88,82754,2634,152,3.18,5.32,169.33,8504
+2023-08-26,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,70670,5183,440,7.34,0.0,0.0,0
+2023-08-27,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,78445.4,194952,21670,2039,11.12,3.62,402.38,37512
+2023-08-27,Paid Search,Google Search Ads 360,Profound intangible policy,69189.9,159020,14690,1572,9.24,4.71,435.1,0
+2023-08-27,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,11950.68,80004,2429,140,3.04,4.92,149.38,11247
+2023-08-27,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,64995,4434,491,6.82,0.0,0.0,0
+2023-08-28,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,85944.69,207523,22797,1833,10.99,3.77,414.15,34908
+2023-08-28,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,102173.4,189117,21465,2103,11.35,4.76,540.27,0
+2023-08-28,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,19059.95,75748,3835,284,5.06,4.97,251.62,13717
+2023-08-28,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,54563,4431,436,8.12,0.0,0.0,0
+2023-08-29,Programmatic,StackAdapt,Business-focused zero tolerance architecture,97168.1,222638,23414,2141,10.52,4.15,436.44,47438
+2023-08-29,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,70223.6,127781,15266,1403,11.95,4.6,549.56,0
+2023-08-29,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,10860.08,76854,1892,120,2.46,5.74,141.31,10247
+2023-08-29,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,51934,4621,507,8.9,0.0,0.0,0
+2023-08-30,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,64355.61,157042,15433,1227,9.83,4.17,409.8,30731
+2023-08-30,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,65638.44,152815,15372,1759,10.06,4.27,429.53,0
+2023-08-30,Paid Social,Facebook,FB Lead Gen — Mid-Market,21202.36,88994,3746,264,4.21,5.66,238.24,12279
+2023-08-30,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,69863,6053,611,8.66,0.0,0.0,0
+2023-08-31,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,59083.2,175278,17904,1491,10.21,3.3,337.08,28852
+2023-08-31,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,71666.91,153744,16251,1566,10.57,4.41,466.14,0
+2023-08-31,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,10896.24,61715,2188,127,3.55,4.98,176.56,6685
+2023-08-31,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,53109,3560,338,6.7,0.0,0.0,0
+2023-09-01,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,182236.6,555527,53599,5432,9.65,3.4,328.04,83772
+2023-09-01,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,151584.76,384408,35417,3801,9.21,4.28,394.33,0
+2023-09-01,Paid Social,Facebook,FB Lead Gen — Mid-Market,53835.6,286147,11310,836,3.95,4.76,188.14,26818
+2023-09-01,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,152423,11037,1095,7.24,0.0,0.0,0
+2023-09-02,Programmatic,StackAdapt,Automated uniform software,190009.68,469438,53224,5399,11.34,3.57,404.76,42627
+2023-09-02,Paid Search,Google Search Ads 360,Integrated dedicated contingency,164271.94,414970,38927,3625,9.38,4.22,395.86,0
+2023-09-02,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,43221.6,229065,7452,555,3.25,5.8,188.69,48758
+2023-09-02,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,163897,13158,1310,8.03,0.0,0.0,0
+2023-09-03,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,159721.6,410689,43168,4140,10.51,3.7,388.91,61007
+2023-09-03,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,141818.01,412468,37419,3734,9.07,3.79,343.83,0
+2023-09-03,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,60099.48,191111,10221,684,5.35,5.88,314.47,23726
+2023-09-03,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,163464,12174,1048,7.45,0.0,0.0,0
+2023-09-04,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,232533.6,585615,61680,5754,10.53,3.77,397.08,122475
+2023-09-04,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,162267.6,361578,35585,3568,9.84,4.56,448.78,0
+2023-09-04,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,47873.65,278415,7913,572,2.84,6.05,171.95,31029
+2023-09-04,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,167420,13625,1526,8.14,0.0,0.0,0
+2023-09-05,Programmatic,StackAdapt,Centralized modular throughput,206654.42,586184,55702,5479,9.5,3.71,352.54,94358
+2023-09-05,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,205911.1,494325,56414,6574,11.41,3.65,416.55,0
+2023-09-05,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,34808.04,250557,6238,395,2.49,5.58,138.92,34171
+2023-09-05,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,175881,18443,1609,10.49,0.0,0.0,0
+2023-09-06,Programmatic,StackAdapt,Automated uniform software,212082.17,552948,49207,4063,8.9,4.31,383.55,112328
+2023-09-06,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,269122.92,559071,66946,6414,11.97,4.02,481.38,0
+2023-09-06,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,53284.97,273778,10111,641,3.69,5.27,194.63,44661
+2023-09-06,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,198131,14158,1375,7.15,0.0,0.0,0
+2023-09-07,Programmatic,StackAdapt,Cross-platform static hierarchy,172522.46,579625,52921,5222,9.13,3.26,297.64,75163
+2023-09-07,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,248577.0,522471,55860,5445,10.69,4.45,475.77,0
+2023-09-07,Paid Social,Facebook,Facebook B2B Decision Makers,69960.56,257321,12317,857,4.79,5.68,271.88,38172
+2023-09-07,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,160351,12099,1156,7.55,0.0,0.0,0
+2023-09-08,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,203490.0,571842,53550,4197,9.36,3.8,355.85,68613
+2023-09-08,Paid Search,Google Search Ads 360,Networked value-added time-frame,223858.04,518412,47029,5063,9.07,4.76,431.81,0
+2023-09-08,Paid Social,Facebook,Facebook B2B Decision Makers,45828.46,219847,8026,457,3.65,5.71,208.46,34532
+2023-09-08,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,182550,15672,1718,8.59,0.0,0.0,0
+2023-09-09,Programmatic,StackAdapt,Cross-platform static hierarchy,200175.0,424900,47100,4433,11.08,4.25,471.11,69501
+2023-09-09,Paid Search,Google Search Ads 360,Profound intangible policy,238916.96,491965,50618,5713,10.29,4.72,485.64,0
+2023-09-09,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,31610.0,240156,6322,382,2.63,5.0,131.62,27512
+2023-09-09,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,161510,14084,1416,8.72,0.0,0.0,0
+2023-09-10,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,172604.46,575457,50322,4057,8.74,3.43,299.94,87774
+2023-09-10,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,183526.56,405944,39984,4072,9.85,4.59,452.1,0
+2023-09-10,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,50399.86,196933,8414,574,4.27,5.99,255.92,41471
+2023-09-10,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,148160,10541,1152,7.12,0.0,0.0,0
+2023-09-11,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,255508.11,567820,59559,5773,10.49,4.29,449.98,124677
+2023-09-11,Paid Search,Google Search Ads 360,Networked value-added time-frame,179663.22,501887,49494,5788,9.86,3.63,357.98,0
+2023-09-11,Paid Social,Facebook,Facebook B2B Decision Makers,56881.44,219546,11286,679,5.14,5.04,259.09,21809
+2023-09-11,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,211010,17936,1849,8.5,0.0,0.0,0
+2023-09-12,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,233133.3,584505,63009,5470,10.78,3.7,398.86,63919
+2023-09-12,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,227093.4,525679,57492,6823,10.94,3.95,432.0,0
+2023-09-12,Paid Social,Facebook,Facebook B2B Decision Makers,76895.28,262026,12264,842,4.68,6.27,293.46,35399
+2023-09-12,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,150519,13827,1448,9.19,0.0,0.0,0
+2023-09-13,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,186141.36,499717,50038,4344,10.01,3.72,372.49,85117
+2023-09-13,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,196403.21,518028,50231,5124,9.7,3.91,379.14,0
+2023-09-13,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,55502.68,221272,10492,765,4.74,5.29,250.83,40974
+2023-09-13,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,218667,21614,1916,9.88,0.0,0.0,0
+2023-09-14,Programmatic,StackAdapt,Cross-platform static hierarchy,207699.66,577322,54947,4391,9.52,3.78,359.76,54996
+2023-09-14,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,211513.64,455164,45292,5196,9.95,4.67,464.7,0
+2023-09-14,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,73905.48,248576,12442,895,5.01,5.94,297.32,24991
+2023-09-14,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,217837,22393,2314,10.28,0.0,0.0,0
+2023-09-15,Programmatic,StackAdapt,Cross-platform static hierarchy,189912.98,539939,56354,5201,10.44,3.37,351.73,66784
+2023-09-15,Paid Search,Google Search Ads 360,Networked value-added time-frame,278634.78,504258,58414,5466,11.58,4.77,552.56,0
+2023-09-15,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,57996.5,223490,9650,674,4.32,6.01,259.5,47470
+2023-09-15,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,166473,16537,1441,9.93,0.0,0.0,0
+2023-09-16,Programmatic,StackAdapt,Centralized modular throughput,283503.06,636297,67022,5707,10.53,4.23,445.55,65945
+2023-09-16,Paid Search,Google Search Ads 360,Integrated dedicated contingency,205500.96,397134,44289,4616,11.15,4.64,517.46,0
+2023-09-16,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,35511.12,245815,6364,455,2.59,5.58,144.46,26176
+2023-09-16,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,210428,17979,1817,8.54,0.0,0.0,0
+2023-09-17,Programmatic,StackAdapt,Automated uniform software,230657.55,626589,68853,6732,10.99,3.35,368.12,123713
+2023-09-17,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,255921.12,493048,54684,5505,11.09,4.68,519.06,0
+2023-09-17,Paid Social,Facebook,Facebook B2B Decision Makers,39437.22,268310,6423,405,2.39,6.14,146.98,23237
+2023-09-17,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,218661,20153,2052,9.22,0.0,0.0,0
+2023-09-18,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,223271.64,479640,54324,4695,11.33,4.11,465.5,64769
+2023-09-18,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,164846.4,380231,34343,3653,9.03,4.8,433.54,0
+2023-09-18,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,40363.47,224581,7299,452,3.25,5.53,179.73,31821
+2023-09-18,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,204750,17448,1713,8.52,0.0,0.0,0
+2023-09-19,Programmatic,StackAdapt,Centralized modular throughput,228507.3,619150,57270,4594,9.25,3.99,369.07,101138
+2023-09-19,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,163843.62,417775,42891,4888,10.27,3.82,392.18,0
+2023-09-19,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,60332.73,260187,11111,704,4.27,5.43,231.88,30163
+2023-09-19,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,190425,16284,1510,8.55,0.0,0.0,0
+2023-09-20,Programmatic,StackAdapt,Business-focused zero tolerance architecture,241761.7,681078,66785,6919,9.81,3.62,354.97,59705
+2023-09-20,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,152903.1,417610,42830,4118,10.26,3.57,366.14,0
+2023-09-20,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,72220.5,294543,14590,1017,4.95,4.95,245.2,28526
+2023-09-20,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,156689,14722,1628,9.4,0.0,0.0,0
+2023-09-21,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,171419.76,466632,46836,4113,10.04,3.66,367.36,77921
+2023-09-21,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,224390.28,498882,46554,4207,9.33,4.82,449.79,0
+2023-09-21,Paid Social,Facebook,Facebook B2B Decision Makers,22661.94,218508,4781,281,2.19,4.74,103.71,29466
+2023-09-21,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,205695,16177,1558,7.86,0.0,0.0,0
+2023-09-22,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,207939.96,579015,64179,6552,11.08,3.24,359.13,109391
+2023-09-22,Paid Search,Google Search Ads 360,Integrated dedicated contingency,272395.11,473251,56631,5916,11.97,4.81,575.58,0
+2023-09-22,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,51167.79,282539,8109,533,2.87,6.31,181.1,56523
+2023-09-22,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,161347,15046,1406,9.33,0.0,0.0,0
+2023-09-23,Programmatic,StackAdapt,Cross-platform static hierarchy,161240.65,485266,44665,4502,9.2,3.61,332.27,95040
+2023-09-23,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,128931.72,336603,33402,3234,9.92,3.86,383.04,0
+2023-09-23,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,25423.32,185586,4927,325,2.65,5.16,136.99,25691
+2023-09-23,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,159964,16002,1758,10.0,0.0,0.0,0
+2023-09-24,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,151176.3,519381,45811,4787,8.82,3.3,291.07,63193
+2023-09-24,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,193891.2,426857,42520,4014,9.96,4.56,454.23,0
+2023-09-24,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,42520.83,210264,8877,511,4.22,4.79,202.23,43591
+2023-09-24,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,162723,15922,1581,9.79,0.0,0.0,0
+2023-09-25,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,191441.34,605758,55977,5705,9.24,3.42,316.04,120880
+2023-09-25,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,172078.25,343865,36227,4111,10.54,4.75,500.42,0
+2023-09-25,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,64510.0,265013,12902,936,4.87,5.0,243.42,31744
+2023-09-25,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,156384,12523,1187,8.01,0.0,0.0,0
+2023-09-26,Programmatic,StackAdapt,Automated uniform software,184058.54,486242,51413,4258,10.57,3.58,378.53,73164
+2023-09-26,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,221879.58,524623,58854,6449,11.22,3.77,422.93,0
+2023-09-26,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,31495.36,254845,5876,367,2.31,5.36,123.59,21808
+2023-09-26,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,170643,17614,1961,10.32,0.0,0.0,0
+2023-09-27,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,172542.23,442986,40033,3563,9.04,4.31,389.5,44195
+2023-09-27,Paid Search,Google Search Ads 360,Profound intangible policy,188596.35,499322,46567,5595,9.33,4.05,377.7,0
+2023-09-27,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,42689.45,267434,8555,577,3.2,4.99,159.63,26861
+2023-09-27,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,212344,21596,2362,10.17,0.0,0.0,0
+2023-09-28,Programmatic,StackAdapt,Automated uniform software,200684.59,642022,55901,4887,8.71,3.59,312.58,108495
+2023-09-28,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,195017.0,448846,42395,4580,9.45,4.6,434.49,0
+2023-09-28,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,30222.27,242043,5961,352,2.46,5.07,124.86,29525
+2023-09-28,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,201397,17931,1860,8.9,0.0,0.0,0
+2023-09-29,Programmatic,StackAdapt,Centralized modular throughput,231454.98,613541,55907,5095,9.11,4.14,377.24,64558
+2023-09-29,Paid Search,Google Search Ads 360,Integrated dedicated contingency,197157.15,381990,44505,4452,11.65,4.43,516.13,0
+2023-09-29,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,41184.18,195567,8634,530,4.42,4.77,210.59,32341
+2023-09-29,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,162279,13058,1118,8.05,0.0,0.0,0
+2023-09-30,Programmatic,StackAdapt,Cross-platform static hierarchy,135775.44,477881,41906,4330,8.77,3.24,284.12,70602
+2023-09-30,Paid Search,Google Search Ads 360,Integrated dedicated contingency,137650.24,367954,36512,4323,9.92,3.77,374.1,0
+2023-09-30,Paid Social,Facebook,FB Lead Gen — Mid-Market,41604.48,274118,7456,519,2.72,5.58,151.78,55872
+2023-09-30,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,177040,15293,1361,8.64,0.0,0.0,0
+2023-10-01,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,74148.5,190706,18085,1599,9.48,4.1,388.81,24302
+2023-10-01,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,84417.84,160860,18038,1949,11.21,4.68,524.79,0
+2023-10-01,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,8721.35,59565,1727,111,2.9,5.05,146.42,10968
+2023-10-01,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,63628,5214,486,8.2,0.0,0.0,0
+2023-10-02,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,88888.59,208866,20817,1829,9.97,4.27,425.58,33346
+2023-10-02,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,92646.44,196646,22487,2249,11.44,4.12,471.13,0
+2023-10-02,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,22041.74,108154,3538,250,3.27,6.23,203.8,18088
+2023-10-02,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,78073,7588,820,9.72,0.0,0.0,0
+2023-10-03,Programmatic,StackAdapt,Automated uniform software,52980.84,145958,14166,1371,9.71,3.74,362.99,26981
+2023-10-03,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,68727.89,139759,15239,1449,10.9,4.51,491.76,0
+2023-10-03,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,12913.35,80506,2185,133,2.71,5.91,160.4,11879
+2023-10-03,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,52560,5449,568,10.37,0.0,0.0,0
+2023-10-04,Programmatic,StackAdapt,Cross-platform static hierarchy,78717.99,207080,20553,2116,9.93,3.83,380.13,37071
+2023-10-04,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,63413.31,160129,16557,1542,10.34,3.83,396.01,0
+2023-10-04,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,8218.47,75875,1621,120,2.14,5.07,108.32,13116
+2023-10-04,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,80743,7026,616,8.7,0.0,0.0,0
+2023-10-05,Programmatic,StackAdapt,Business-focused zero tolerance architecture,95996.46,206846,22119,2199,10.69,4.34,464.1,33157
+2023-10-05,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,79853.0,155228,16990,1552,10.95,4.7,514.42,0
+2023-10-05,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,13346.28,74930,2358,167,3.15,5.66,178.12,10123
+2023-10-05,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,65586,6504,606,9.92,0.0,0.0,0
+2023-10-06,Programmatic,StackAdapt,Centralized modular throughput,64658.24,173555,18796,1909,10.83,3.44,372.55,24340
+2023-10-06,Paid Search,Google Search Ads 360,Integrated dedicated contingency,72882.86,149988,16678,1769,11.12,4.37,485.92,0
+2023-10-06,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,11587.04,81138,2224,124,2.74,5.21,142.81,12849
+2023-10-06,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,79179,7258,697,9.17,0.0,0.0,0
+2023-10-07,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,92355.39,231730,26163,2426,11.29,3.53,398.55,20252
+2023-10-07,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,76858.48,193594,18127,1790,9.36,4.24,397.01,0
+2023-10-07,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,21115.2,97127,3984,233,4.1,5.3,217.4,16162
+2023-10-07,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,84361,7938,876,9.41,0.0,0.0,0
+2023-10-08,Programmatic,StackAdapt,Automated uniform software,74517.22,208394,18913,1827,9.08,3.94,357.58,34248
+2023-10-08,Paid Search,Google Search Ads 360,Profound intangible policy,74525.2,166831,17660,1762,10.59,4.22,446.71,0
+2023-10-08,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,18234.06,78533,3783,222,4.82,4.82,232.18,11078
+2023-10-08,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,71249,5878,537,8.25,0.0,0.0,0
+2023-10-09,Programmatic,StackAdapt,Business-focused zero tolerance architecture,75840.4,176649,19958,2068,11.3,3.8,429.33,22240
+2023-10-09,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,62403.6,171677,15640,1629,9.11,3.99,363.49,0
+2023-10-09,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,11764.6,97696,1994,131,2.04,5.9,120.42,14449
+2023-10-09,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,52319,5435,535,10.39,0.0,0.0,0
+2023-10-10,Programmatic,StackAdapt,Centralized modular throughput,56652.48,171497,17064,1536,9.95,3.32,330.34,16268
+2023-10-10,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,74188.62,181308,17622,1680,9.72,4.21,409.19,0
+2023-10-10,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,10183.17,94355,2091,139,2.22,4.87,107.92,8030
+2023-10-10,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,52466,5160,447,9.84,0.0,0.0,0
+2023-10-11,Programmatic,StackAdapt,Automated uniform software,62198.15,151973,16765,1432,11.03,3.71,409.27,13007
+2023-10-11,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,54479.46,127225,13654,1464,10.73,3.99,428.21,0
+2023-10-11,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,7366.48,64153,1522,94,2.37,4.84,114.83,12017
+2023-10-11,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,61637,6398,695,10.38,0.0,0.0,0
+2023-10-12,Programmatic,StackAdapt,Automated uniform software,72333.75,206183,19289,1844,9.36,3.75,350.82,30408
+2023-10-12,Paid Search,Google Search Ads 360,Networked value-added time-frame,81874.02,175440,17273,1714,9.85,4.74,466.68,0
+2023-10-12,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,14660.08,69765,2581,188,3.7,5.68,210.14,10918
+2023-10-12,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,57248,4507,488,7.87,0.0,0.0,0
+2023-10-13,Programmatic,StackAdapt,Automated uniform software,72133.47,189340,16659,1310,8.8,4.33,380.97,25140
+2023-10-13,Paid Search,Google Search Ads 360,Profound intangible policy,71677.5,163334,15090,1671,9.24,4.75,438.84,0
+2023-10-13,Paid Social,Facebook,Facebook B2B Decision Makers,12497.76,86190,2104,140,2.44,5.94,145.0,11799
+2023-10-13,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,72276,6573,721,9.09,0.0,0.0,0
+2023-10-14,Programmatic,StackAdapt,Centralized modular throughput,65997.12,163922,15456,1294,9.43,4.27,402.61,30564
+2023-10-14,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,76781.24,171540,16987,1614,9.9,4.52,447.6,0
+2023-10-14,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,11181.66,84574,2359,158,2.79,4.74,132.21,10627
+2023-10-14,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,63287,4488,503,7.09,0.0,0.0,0
+2023-10-15,Programmatic,StackAdapt,Business-focused zero tolerance architecture,47988.0,141602,12900,1282,9.11,3.72,338.89,22537
+2023-10-15,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,46874.0,111945,10190,1052,9.1,4.6,418.72,0
+2023-10-15,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,12131.34,85235,1963,129,2.3,6.18,142.33,11448
+2023-10-15,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,62693,4410,488,7.03,0.0,0.0,0
+2023-10-16,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,106721.7,235706,24819,2189,10.53,4.3,452.77,27949
+2023-10-16,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,81959.34,155742,17291,1960,11.1,4.74,526.25,0
+2023-10-16,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,17987.14,78526,3763,262,4.79,4.78,229.06,10539
+2023-10-16,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,60977,4706,528,7.72,0.0,0.0,0
+2023-10-17,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,99529.74,210342,24041,2130,11.43,4.14,473.18,29623
+2023-10-17,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,67991.0,185080,17660,2103,9.54,3.85,367.36,0
+2023-10-17,Paid Social,Facebook,FB Lead Gen — Mid-Market,21118.24,80019,3718,233,4.65,5.68,263.92,11381
+2023-10-17,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,70751,5245,445,7.41,0.0,0.0,0
+2023-10-18,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,56523.42,170129,15318,1347,9.0,3.69,332.24,14977
+2023-10-18,Paid Search,Google Search Ads 360,Integrated dedicated contingency,74511.36,148019,17248,1621,11.65,4.32,503.39,0
+2023-10-18,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,15103.05,81432,2823,194,3.47,5.35,185.47,12267
+2023-10-18,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,46007,4263,437,9.27,0.0,0.0,0
+2023-10-19,Programmatic,StackAdapt,Automated uniform software,63984.4,147228,16838,1512,11.44,3.8,434.59,30533
+2023-10-19,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,70491.82,140771,15127,1730,10.75,4.66,500.76,0
+2023-10-19,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,15587.22,67884,2486,156,3.66,6.27,229.62,12056
+2023-10-19,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,43169,4296,418,9.95,0.0,0.0,0
+2023-10-20,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,54138.62,160460,15647,1602,9.75,3.46,337.4,31402
+2023-10-20,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,51868.02,134134,12291,1473,9.16,4.22,386.69,0
+2023-10-20,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,12090.12,64075,2334,167,3.64,5.18,188.69,6854
+2023-10-20,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,44662,3435,364,7.69,0.0,0.0,0
+2023-10-21,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,62990.7,162795,14649,1280,9.0,4.3,386.93,20841
+2023-10-21,Paid Search,Google Search Ads 360,Networked value-added time-frame,89241.32,181989,19028,1805,10.46,4.69,490.37,0
+2023-10-21,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,17055.08,79917,3583,266,4.48,4.76,213.41,7475
+2023-10-21,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,66274,5054,448,7.63,0.0,0.0,0
+2023-10-22,Programmatic,StackAdapt,Cross-platform static hierarchy,51169.84,125742,13609,1114,10.82,3.76,406.94,20725
+2023-10-22,Paid Search,Google Search Ads 360,Profound intangible policy,40915.82,125853,11429,1302,9.08,3.58,325.11,0
+2023-10-22,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,21756.28,76340,3913,249,5.13,5.56,284.99,11205
+2023-10-22,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,49529,4977,545,10.05,0.0,0.0,0
+2023-10-23,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,78295.5,182172,20550,2152,11.28,3.81,429.79,26122
+2023-10-23,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,67553.0,132283,15710,1472,11.88,4.3,510.67,0
+2023-10-23,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,13290.96,70670,2103,132,2.98,6.32,188.07,6197
+2023-10-23,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,59875,4089,359,6.83,0.0,0.0,0
+2023-10-24,Programmatic,StackAdapt,Business-focused zero tolerance architecture,56047.23,181448,16831,1463,9.28,3.33,308.89,22218
+2023-10-24,Paid Search,Google Search Ads 360,Networked value-added time-frame,90707.76,178678,21144,2110,11.83,4.29,507.66,0
+2023-10-24,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,11787.36,93465,1889,134,2.02,6.24,126.12,8672
+2023-10-24,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,52074,5386,533,10.34,0.0,0.0,0
+2023-10-25,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,55710.16,138974,13688,1332,9.85,4.07,400.87,30485
+2023-10-25,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,50816.4,117345,12455,1320,10.61,4.08,433.05,0
+2023-10-25,Paid Social,Facebook,FB Lead Gen — Mid-Market,17693.5,59346,3217,231,5.42,5.5,298.14,9759
+2023-10-25,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,45701,3964,411,8.68,0.0,0.0,0
+2023-10-26,Programmatic,StackAdapt,Cross-platform static hierarchy,94213.53,221825,22923,2027,10.33,4.11,424.72,23039
+2023-10-26,Paid Search,Google Search Ads 360,Integrated dedicated contingency,67488.0,147407,14800,1522,10.04,4.56,457.83,0
+2023-10-26,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,20509.36,81902,3914,260,4.78,5.24,250.41,15839
+2023-10-26,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,55347,4094,401,7.4,0.0,0.0,0
+2023-10-27,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,53186.54,136162,14221,1312,10.44,3.74,390.61,29325
+2023-10-27,Paid Search,Google Search Ads 360,Networked value-added time-frame,72200.7,145215,16830,1576,11.59,4.29,497.2,0
+2023-10-27,Paid Social,Facebook,Facebook B2B Decision Makers,18462.1,86387,3490,241,4.04,5.29,213.71,8029
+2023-10-27,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,55526,4485,487,8.08,0.0,0.0,0
+2023-10-28,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,82495.38,199805,22726,1932,11.37,3.63,412.88,41035
+2023-10-28,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,72751.77,166498,17199,1708,10.33,4.23,436.95,0
+2023-10-28,Paid Social,Facebook,Facebook B2B Decision Makers,11324.04,80452,2379,165,2.96,4.76,140.76,6991
+2023-10-28,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,53571,4239,392,7.91,0.0,0.0,0
+2023-10-29,Programmatic,StackAdapt,Centralized modular throughput,67261.32,170744,15498,1344,9.08,4.34,393.93,23486
+2023-10-29,Paid Search,Google Search Ads 360,Integrated dedicated contingency,62237.34,149888,16082,1933,10.73,3.87,415.23,0
+2023-10-29,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,19039.0,87676,3950,265,4.51,4.82,217.15,15322
+2023-10-29,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,50621,4497,472,8.88,0.0,0.0,0
+2023-10-30,Programmatic,StackAdapt,Centralized modular throughput,60892.5,189014,16238,1647,8.59,3.75,322.16,20878
+2023-10-30,Paid Search,Google Search Ads 360,Profound intangible policy,53583.14,118276,14027,1284,11.86,3.82,453.03,0
+2023-10-30,Paid Social,Facebook,FB Lead Gen — Mid-Market,14122.72,69408,2894,190,4.17,4.88,203.47,8367
+2023-10-30,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,49637,3650,348,7.35,0.0,0.0,0
+2023-10-31,Programmatic,StackAdapt,Cross-platform static hierarchy,72929.36,175049,16804,1495,9.6,4.34,416.62,37399
+2023-10-31,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,71114.61,184206,17913,1637,9.72,3.97,386.06,0
+2023-10-31,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,18257.82,79530,2998,211,3.77,6.09,229.57,15769
+2023-10-31,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,62092,5742,531,9.25,0.0,0.0,0
+2023-11-01,Programmatic,StackAdapt,Centralized modular throughput,52182.55,169482,14455,1293,8.53,3.61,307.89,30010
+2023-11-01,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,56475.96,144616,14334,1645,9.91,3.94,390.52,0
+2023-11-01,Paid Social,Facebook,FB Lead Gen — Mid-Market,19523.7,68208,3099,213,4.54,6.3,286.24,7606
+2023-11-01,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,55673,4976,548,8.94,0.0,0.0,0
+2023-11-02,Programmatic,StackAdapt,Automated uniform software,68960.84,179253,18292,1569,10.2,3.77,384.71,22716
+2023-11-02,Paid Search,Google Search Ads 360,Profound intangible policy,71383.95,140014,16335,1750,11.67,4.37,509.83,0
+2023-11-02,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,8718.12,72920,1588,94,2.18,5.49,119.56,9000
+2023-11-02,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,47373,4034,374,8.52,0.0,0.0,0
+2023-11-03,Programmatic,StackAdapt,Business-focused zero tolerance architecture,62650.12,166822,14846,1541,8.9,4.22,375.55,29872
+2023-11-03,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,61108.4,118833,13460,1543,11.33,4.54,514.24,0
+2023-11-03,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,15229.15,63610,2705,193,4.25,5.63,239.41,10845
+2023-11-03,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,55480,4779,402,8.61,0.0,0.0,0
+2023-11-04,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,60737.6,160899,15776,1361,9.81,3.85,377.49,15877
+2023-11-04,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,73038.0,173390,19740,1863,11.39,3.7,421.24,0
+2023-11-04,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,20366.65,73712,3737,244,5.07,5.45,276.3,6998
+2023-11-04,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,68271,6807,732,9.97,0.0,0.0,0
+2023-11-05,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,49691.84,159747,14117,1123,8.84,3.52,311.07,15813
+2023-11-05,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,63893.48,144975,14722,1751,10.16,4.34,440.72,0
+2023-11-05,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,25627.39,96989,4351,249,4.49,5.89,264.23,11494
+2023-11-05,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,67716,5325,599,7.86,0.0,0.0,0
+2023-11-06,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,70185.18,154619,17459,1377,11.29,4.02,453.92,28070
+2023-11-06,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,69784.35,160353,19119,2293,11.92,3.65,435.19,0
+2023-11-06,Paid Social,Facebook,Facebook B2B Decision Makers,17731.14,85083,3626,246,4.26,4.89,208.4,14551
+2023-11-06,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,67445,6843,658,10.15,0.0,0.0,0
+2023-11-07,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,60498.75,146950,16133,1573,10.98,3.75,411.7,12889
+2023-11-07,Paid Search,Google Search Ads 360,Profound intangible policy,57342.96,125807,13092,1551,10.41,4.38,455.8,0
+2023-11-07,Paid Social,Facebook,Facebook B2B Decision Makers,15404.84,63911,2453,138,3.84,6.28,241.04,8334
+2023-11-07,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,51379,4069,420,7.92,0.0,0.0,0
+2023-11-08,Programmatic,StackAdapt,Cross-platform static hierarchy,66314.86,211491,19678,1710,9.3,3.37,313.56,36328
+2023-11-08,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,67015.41,132396,14289,1666,10.79,4.69,506.17,0
+2023-11-08,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,17675.24,84778,3058,173,3.61,5.78,208.49,16529
+2023-11-08,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,58277,4770,514,8.19,0.0,0.0,0
+2023-11-09,Programmatic,StackAdapt,Automated uniform software,63546.15,186864,18969,1584,10.15,3.35,340.07,38784
+2023-11-09,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,102258.18,195798,22086,2005,11.28,4.63,522.26,0
+2023-11-09,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,13944.21,90265,2887,190,3.2,4.83,154.48,16783
+2023-11-09,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,71708,5196,461,7.25,0.0,0.0,0
+2023-11-10,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,45175.0,135439,13900,1409,10.26,3.25,333.54,11764
+2023-11-10,Paid Search,Google Search Ads 360,Profound intangible policy,64861.75,141165,16175,1610,11.46,4.01,459.47,0
+2023-11-10,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,13240.72,75978,2248,125,2.96,5.89,174.27,12733
+2023-11-10,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,56641,5362,553,9.47,0.0,0.0,0
+2023-11-11,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,55460.0,156177,13865,1133,8.88,4.0,355.11,31267
+2023-11-11,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,66011.7,163908,17841,1695,10.89,3.7,402.74,0
+2023-11-11,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,19912.36,82995,3341,224,4.03,5.96,239.92,14811
+2023-11-11,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,62724,4218,444,6.72,0.0,0.0,0
+2023-11-12,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,85052.16,188929,19688,1710,10.42,4.32,450.18,15998
+2023-11-12,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,63963.83,177664,16877,1884,9.5,3.79,360.03,0
+2023-11-12,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,15371.24,82104,3062,223,3.73,5.02,187.22,8226
+2023-11-12,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,76001,6461,711,8.5,0.0,0.0,0
+2023-11-13,Programmatic,StackAdapt,Centralized modular throughput,63333.94,171706,15794,1303,9.2,4.01,368.85,28007
+2023-11-13,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,60347.28,148978,14791,1528,9.93,4.08,405.08,0
+2023-11-13,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,13681.26,86067,2601,158,3.02,5.26,158.96,13688
+2023-11-13,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,48721,4950,451,10.16,0.0,0.0,0
+2023-11-14,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,63095.58,176217,18449,1904,10.47,3.42,358.06,37986
+2023-11-14,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,80066.5,171241,20270,2241,11.84,3.95,467.57,0
+2023-11-14,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,12250.45,81477,2495,142,3.06,4.91,150.35,7711
+2023-11-14,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,67660,6551,572,9.68,0.0,0.0,0
+2023-11-15,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,52999.74,170459,15497,1253,9.09,3.42,310.92,35680
+2023-11-15,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,64833.75,151616,15255,1676,10.06,4.25,427.62,0
+2023-11-15,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,17205.37,76725,3367,227,4.39,5.11,224.25,6556
+2023-11-15,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,52781,5311,531,10.06,0.0,0.0,0
+2023-11-16,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,88412.0,245840,22103,2150,8.99,4.0,359.63,53394
+2023-11-16,Paid Search,Google Search Ads 360,Profound intangible policy,103562.96,204454,22612,2191,11.06,4.58,506.53,0
+2023-11-16,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,19333.71,76954,3641,265,4.73,5.31,251.24,12950
+2023-11-16,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,66566,5492,507,8.25,0.0,0.0,0
+2023-11-17,Programmatic,StackAdapt,Business-focused zero tolerance architecture,113067.9,236085,26730,2219,11.32,4.23,478.93,43260
+2023-11-17,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,65560.8,150950,13890,1356,9.2,4.72,434.32,0
+2023-11-17,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,24940.16,94098,4256,256,4.52,5.86,265.04,7898
+2023-11-17,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,63663,5734,502,9.01,0.0,0.0,0
+2023-11-18,Programmatic,StackAdapt,Centralized modular throughput,74876.5,183137,19150,1711,10.46,3.91,408.86,17405
+2023-11-18,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,74299.2,137721,16152,1578,11.73,4.6,539.49,0
+2023-11-18,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,17263.84,109229,2992,180,2.74,5.77,158.05,23502
+2023-11-18,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,79640,6778,723,8.51,0.0,0.0,0
+2023-11-19,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,78254.4,192404,21920,1813,11.39,3.57,406.72,18090
+2023-11-19,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,51534.72,122333,14004,1416,11.45,3.68,421.27,0
+2023-11-19,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,19590.8,67269,3655,246,5.43,5.36,291.23,6949
+2023-11-19,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,64323,6292,576,9.78,0.0,0.0,0
+2023-11-20,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,49223.46,129496,11474,1081,8.86,4.29,380.12,19365
+2023-11-20,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,69235.8,149173,15420,1720,10.34,4.49,464.13,0
+2023-11-20,Paid Social,Facebook,Facebook B2B Decision Makers,9508.15,60837,1985,134,3.26,4.79,156.29,7946
+2023-11-20,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,53201,5578,542,10.48,0.0,0.0,0
+2023-11-21,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,91808.72,198857,21653,2049,10.89,4.24,461.68,27349
+2023-11-21,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,72465.0,177449,19324,1978,10.89,3.75,408.37,0
+2023-11-21,Paid Social,Facebook,Facebook B2B Decision Makers,7934.55,76079,1565,113,2.06,5.07,104.29,8339
+2023-11-21,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,74570,5801,569,7.78,0.0,0.0,0
+2023-11-22,Programmatic,StackAdapt,Business-focused zero tolerance architecture,78833.16,193257,21364,2179,11.05,3.69,407.92,36086
+2023-11-22,Paid Search,Google Search Ads 360,Profound intangible policy,45379.99,116654,10529,946,9.03,4.31,389.01,0
+2023-11-22,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,14584.92,71255,2716,150,3.81,5.37,204.69,12863
+2023-11-22,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,53165,5012,451,9.43,0.0,0.0,0
+2023-11-23,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,76274.5,211451,19310,1636,9.13,3.95,360.72,41484
+2023-11-23,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,70886.34,164446,16074,1873,9.77,4.41,431.06,0
+2023-11-23,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,18814.45,88883,3295,195,3.71,5.71,211.68,11574
+2023-11-23,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,81572,6868,670,8.42,0.0,0.0,0
+2023-11-24,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,97179.75,220096,23995,2175,10.9,4.05,441.53,35671
+2023-11-24,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,58234.92,156727,15009,1558,9.58,3.88,371.57,0
+2023-11-24,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,17216.1,97756,3102,228,3.17,5.55,176.11,16463
+2023-11-24,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,63962,4488,423,7.02,0.0,0.0,0
+2023-11-25,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,57214.68,167078,16441,1638,9.84,3.48,342.44,17215
+2023-11-25,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,61688.6,127733,15046,1679,11.78,4.1,482.95,0
+2023-11-25,Paid Social,Facebook,FB Lead Gen — Mid-Market,9433.95,71265,1635,121,2.29,5.77,132.38,8548
+2023-11-25,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,54904,3809,425,6.94,0.0,0.0,0
+2023-11-26,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,66105.4,173722,16045,1572,9.24,4.12,380.52,30276
+2023-11-26,Paid Search,Google Search Ads 360,Integrated dedicated contingency,66597.09,142935,16691,1531,11.68,3.99,465.93,0
+2023-11-26,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,21032.76,65554,3577,224,5.46,5.88,320.85,11528
+2023-11-26,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,48374,3606,330,7.46,0.0,0.0,0
+2023-11-27,Programmatic,StackAdapt,Business-focused zero tolerance architecture,59251.72,159889,13684,1402,8.56,4.33,370.58,20436
+2023-11-27,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,57993.8,139453,12580,1392,9.02,4.61,415.87,0
+2023-11-27,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,9934.74,68272,1746,123,2.56,5.69,145.52,5890
+2023-11-27,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,62556,4839,455,7.74,0.0,0.0,0
+2023-11-28,Programmatic,StackAdapt,Business-focused zero tolerance architecture,81098.82,226553,21978,2293,9.7,3.69,357.97,42604
+2023-11-28,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,71782.08,166828,19506,2298,11.69,3.68,430.28,0
+2023-11-28,Paid Social,Facebook,Facebook B2B Decision Makers,25766.43,105188,5143,363,4.89,5.01,244.96,20271
+2023-11-28,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,76570,5862,652,7.66,0.0,0.0,0
+2023-11-29,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,53904.66,134275,13578,1277,10.11,3.97,401.45,11060
+2023-11-29,Paid Search,Google Search Ads 360,Profound intangible policy,50522.07,154078,14073,1319,9.13,3.59,327.9,0
+2023-11-29,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,22606.47,71251,3749,255,5.26,6.03,317.28,5832
+2023-11-29,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,52921,4412,432,8.34,0.0,0.0,0
+2023-11-30,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,64006.74,169172,16933,1681,10.01,3.78,378.35,17071
+2023-11-30,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,57444.24,139077,13236,1545,9.52,4.34,413.04,0
+2023-11-30,Paid Social,Facebook,FB Lead Gen — Mid-Market,15566.4,60420,3243,211,5.37,4.8,257.64,10135
+2023-11-30,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,47332,4598,493,9.71,0.0,0.0,0
+2023-12-01,Programmatic,StackAdapt,Business-focused zero tolerance architecture,71632.34,214834,21193,2098,9.86,3.38,333.43,33636
+2023-12-01,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,78524.55,182204,16887,1729,9.27,4.65,430.97,0
+2023-12-01,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,13071.38,109002,2558,145,2.35,5.11,119.92,22069
+2023-12-01,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,60935,5715,493,9.38,0.0,0.0,0
+2023-12-02,Programmatic,StackAdapt,Centralized modular throughput,77968.44,181188,19689,1666,10.87,3.96,430.32,20473
+2023-12-02,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,94173.94,173907,20209,1884,11.62,4.66,541.52,0
+2023-12-02,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,10704.98,88646,2167,137,2.44,4.94,120.76,15783
+2023-12-02,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,70721,4896,480,6.92,0.0,0.0,0
+2023-12-03,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,92520.96,239968,24094,2516,10.04,3.84,385.56,32440
+2023-12-03,Paid Search,Google Search Ads 360,Profound intangible policy,85170.13,193982,20327,2116,10.48,4.19,439.06,0
+2023-12-03,Paid Social,Facebook,FB Lead Gen — Mid-Market,26512.38,103406,5079,320,4.91,5.22,256.39,15394
+2023-12-03,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,70089,5223,556,7.45,0.0,0.0,0
+2023-12-04,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,65180.13,171457,15123,1282,8.82,4.31,380.15,21040
+2023-12-04,Paid Search,Google Search Ads 360,Integrated dedicated contingency,49760.24,132769,13784,1363,10.38,3.61,374.79,0
+2023-12-04,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,15574.86,75847,2961,195,3.9,5.26,205.35,10817
+2023-12-04,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,72615,5816,528,8.01,0.0,0.0,0
+2023-12-05,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,72061.48,165494,17837,1496,10.78,4.04,435.43,13729
+2023-12-05,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,65805.0,135733,15375,1536,11.33,4.28,484.81,0
+2023-12-05,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,18440.64,65988,3033,170,4.6,6.08,279.45,7110
+2023-12-05,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,64516,5103,533,7.91,0.0,0.0,0
+2023-12-06,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,67715.93,201218,17867,1485,8.88,3.79,336.53,18405
+2023-12-06,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,60567.68,126716,14992,1799,11.83,4.04,477.98,0
+2023-12-06,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,20486.62,89965,3514,212,3.91,5.83,227.72,15496
+2023-12-06,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,68993,5216,537,7.56,0.0,0.0,0
+2023-12-07,Programmatic,StackAdapt,Centralized modular throughput,46558.44,132126,11246,1189,8.51,4.14,352.38,25122
+2023-12-07,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,50865.99,130737,12943,1216,9.9,3.93,389.07,0
+2023-12-07,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,14721.6,66010,3067,201,4.65,4.8,223.02,5447
+2023-12-07,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,43806,3566,394,8.14,0.0,0.0,0
+2023-12-08,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,71787.15,216476,21429,1889,9.9,3.35,331.62,43864
+2023-12-08,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,71189.58,179195,17031,1794,9.5,4.18,397.27,0
+2023-12-08,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,26669.16,90142,4788,318,5.31,5.57,295.86,7846
+2023-12-08,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,53128,3851,324,7.25,0.0,0.0,0
+2023-12-09,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,66123.31,217682,19391,1963,8.91,3.41,303.76,26593
+2023-12-09,Paid Search,Google Search Ads 360,Profound intangible policy,63499.45,149805,15155,1474,10.12,4.19,423.88,0
+2023-12-09,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,22895.33,85524,4663,262,5.45,4.91,267.71,7474
+2023-12-09,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,69963,4700,507,6.72,0.0,0.0,0
+2023-12-10,Programmatic,StackAdapt,Cross-platform static hierarchy,65985.66,187253,19071,1581,10.18,3.46,352.39,23338
+2023-12-10,Paid Search,Google Search Ads 360,Networked value-added time-frame,73876.17,160150,15423,1433,9.63,4.79,461.29,0
+2023-12-10,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,16554.34,66591,3202,226,4.81,5.17,248.6,6591
+2023-12-10,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,52997,4923,503,9.29,0.0,0.0,0
+2023-12-11,Programmatic,StackAdapt,Automated uniform software,88241.4,237716,25140,2074,10.58,3.51,371.21,47045
+2023-12-11,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,56030.64,148990,13733,1529,9.22,4.08,376.07,0
+2023-12-11,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,28017.6,105024,4490,255,4.28,6.24,266.77,12203
+2023-12-11,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,63046,5112,433,8.11,0.0,0.0,0
+2023-12-12,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,62414.46,156514,15186,1334,9.7,4.11,398.78,30120
+2023-12-12,Paid Search,Google Search Ads 360,Networked value-added time-frame,50229.84,132277,13359,1349,10.1,3.76,379.73,0
+2023-12-12,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,21658.56,91680,4102,241,4.48,5.28,236.24,8692
+2023-12-12,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,64576,4510,506,6.99,0.0,0.0,0
+2023-12-13,Programmatic,StackAdapt,Automated uniform software,76373.96,193306,19786,2044,10.24,3.86,395.09,20186
+2023-12-13,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,81135.98,160311,18482,2024,11.53,4.39,506.12,0
+2023-12-13,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,25521.72,103043,5284,386,5.13,4.83,247.68,16093
+2023-12-13,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,73877,7038,711,9.53,0.0,0.0,0
+2023-12-14,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,73335.04,182959,19504,1571,10.66,3.76,400.83,19093
+2023-12-14,Paid Search,Google Search Ads 360,Networked value-added time-frame,49134.84,127398,11534,1174,9.05,4.26,385.68,0
+2023-12-14,Paid Social,Facebook,FB Lead Gen — Mid-Market,16553.73,76146,3291,235,4.32,5.03,217.39,7376
+2023-12-14,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,62166,4430,495,7.13,0.0,0.0,0
+2023-12-15,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,84459.36,206152,23592,1908,11.44,3.58,409.69,34912
+2023-12-15,Paid Search,Google Search Ads 360,Profound intangible policy,81042.24,161429,19024,1737,11.79,4.26,502.03,0
+2023-12-15,Paid Social,Facebook,FB Lead Gen — Mid-Market,21468.48,94920,4066,244,4.28,5.28,226.17,18805
+2023-12-15,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,60311,5914,590,9.81,0.0,0.0,0
+2023-12-16,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,83994.88,218193,19904,1868,9.12,4.22,384.96,30655
+2023-12-16,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,83579.16,198779,20586,1929,10.36,4.06,420.46,0
+2023-12-16,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,20167.7,105483,3290,237,3.12,6.13,191.19,13610
+2023-12-16,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,55836,5247,485,9.4,0.0,0.0,0
+2023-12-17,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,72225.6,197683,19680,1961,9.96,3.67,365.36,28078
+2023-12-17,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,74302.92,160253,16188,1712,10.1,4.59,463.66,0
+2023-12-17,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,16675.84,84949,3257,222,3.83,5.12,196.3,10096
+2023-12-17,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,79133,7433,745,9.39,0.0,0.0,0
+2023-12-18,Programmatic,StackAdapt,Cross-platform static hierarchy,62708.8,157316,16288,1502,10.35,3.85,398.62,20501
+2023-12-18,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,52554.48,134467,12881,1535,9.58,4.08,390.84,0
+2023-12-18,Paid Social,Facebook,Q1 LinkedIn Enterprise Outreach,10876.16,84988,1856,103,2.18,5.86,127.97,13201
+2023-12-18,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,64827,4844,509,7.47,0.0,0.0,0
+2023-12-19,Programmatic,Amazon Ad Server (Sizmek),Business-focused zero tolerance architecture,49705.11,143308,14161,1219,9.88,3.51,346.84,24410
+2023-12-19,Paid Search,Google Search Ads 360,Networked value-added time-frame,60704.76,144565,16586,1698,11.47,3.66,419.91,0
+2023-12-19,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,21001.5,66127,3590,240,5.43,5.85,317.59,5358
+2023-12-19,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,54930,3652,365,6.65,0.0,0.0,0
+2023-12-20,Programmatic,StackAdapt,Business-focused zero tolerance architecture,109297.29,250544,25359,2303,10.12,4.31,436.24,43671
+2023-12-20,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,62816.0,145237,15100,1461,10.4,4.16,432.51,0
+2023-12-20,Paid Social,LinkedIn Ads,FB Lead Gen — Mid-Market,18404.1,92110,3718,231,4.04,4.95,199.81,13864
+2023-12-20,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,79626,7290,679,9.16,0.0,0.0,0
+2023-12-21,Programmatic,StackAdapt,Business-focused zero tolerance architecture,91942.8,246882,22535,1786,9.13,4.08,372.42,48355
+2023-12-21,Paid Search,Google Search Ads 360,Profound intangible policy,103740.08,209667,24467,2646,11.67,4.24,494.78,0
+2023-12-21,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,12487.77,76404,2187,140,2.86,5.71,163.44,12072
+2023-12-21,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,77502,5904,589,7.62,0.0,0.0,0
+2023-12-22,Programmatic,StackAdapt,Business-focused zero tolerance architecture,71748.16,153077,16456,1601,10.75,4.36,468.71,18201
+2023-12-22,Paid Search,Bing Ads (Microsoft Advertising),Profound intangible policy,61324.2,132031,13188,1360,9.99,4.65,464.47,0
+2023-12-22,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,23555.88,75660,3849,227,5.09,6.12,311.34,6685
+2023-12-22,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,61066,4773,441,7.82,0.0,0.0,0
+2023-12-23,Programmatic,StackAdapt,Automated uniform software,79295.35,217918,18835,1656,8.64,4.21,363.88,29516
+2023-12-23,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,65858.16,135806,13953,1414,10.27,4.72,484.94,0
+2023-12-23,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,18642.88,90965,3427,255,3.77,5.44,204.95,8018
+2023-12-23,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,55881,4606,404,8.24,0.0,0.0,0
+2023-12-24,Programmatic,StackAdapt,Cross-platform static hierarchy,88707.15,235399,21903,2069,9.3,4.05,376.84,49852
+2023-12-24,Paid Search,Google Search Ads 360,Persistent 24/7 attitude,92212.6,204304,21545,2448,10.55,4.28,451.35,0
+2023-12-24,Paid Social,Facebook,FB Lead Gen — Mid-Market,12864.9,96524,2318,133,2.4,5.55,133.28,11355
+2023-12-24,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,57315,5382,453,9.39,0.0,0.0,0
+2023-12-25,Programmatic,Amazon Ad Server (Sizmek),Centralized modular throughput,72831.0,193489,22070,2020,11.41,3.3,376.41,30423
+2023-12-25,Paid Search,Google Search Ads 360,Profound intangible policy,85879.04,180411,21632,2223,11.99,3.97,476.02,0
+2023-12-25,Paid Social,Facebook,FB Lead Gen — Mid-Market,14028.18,98439,2627,176,2.67,5.34,142.51,8441
+2023-12-25,Organic,Google Display & Video 360,Organic Social — LinkedIn,0.0,59621,4507,466,7.56,0.0,0.0,0
+2023-12-26,Programmatic,StackAdapt,Cross-platform static hierarchy,81047.04,193032,21106,1682,10.93,3.84,419.86,17349
+2023-12-26,Paid Search,Bing Ads (Microsoft Advertising),Networked value-added time-frame,108390.32,208095,23512,2585,11.3,4.61,520.87,0
+2023-12-26,Paid Social,LinkedIn Ads,LinkedIn Sponsored InMail — CXO,33473.8,100146,5399,373,5.39,6.2,334.25,15262
+2023-12-26,Organic,Google Display & Video 360,SEO — Brand Awareness,0.0,60060,5172,450,8.61,0.0,0.0,0
+2023-12-27,Programmatic,StackAdapt,Business-focused zero tolerance architecture,67599.3,188994,19594,1537,10.37,3.45,357.68,28119
+2023-12-27,Paid Search,Bing Ads (Microsoft Advertising),Integrated dedicated contingency,84930.0,187186,19000,1949,10.15,4.47,453.72,0
+2023-12-27,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,13495.49,88101,2683,169,3.05,5.03,153.18,18963
+2023-12-27,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,54068,4318,362,7.99,0.0,0.0,0
+2023-12-28,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,63731.85,185704,16905,1359,9.1,3.77,343.19,15115
+2023-12-28,Paid Search,Google Search Ads 360,Networked value-added time-frame,62558.88,116032,13254,1505,11.42,4.72,539.15,0
+2023-12-28,Paid Social,Facebook,LinkedIn Sponsored InMail — CXO,22208.4,84733,3720,209,4.39,5.97,262.1,16808
+2023-12-28,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,62315,5317,479,8.53,0.0,0.0,0
+2023-12-29,Programmatic,Amazon Ad Server (Sizmek),Automated uniform software,89846.56,224997,25744,2123,11.44,3.49,399.32,24671
+2023-12-29,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,88654.65,191992,18355,1676,9.56,4.83,461.76,0
+2023-12-29,Paid Social,Facebook,Facebook B2B Decision Makers,22149.3,74245,3655,227,4.92,6.06,298.33,11704
+2023-12-29,Organic,Google Display & Video 360,Blog Traffic — Inbound,0.0,79797,8143,680,10.2,0.0,0.0,0
+2023-12-30,Programmatic,StackAdapt,Centralized modular throughput,55953.75,141998,14921,1532,10.51,3.75,394.05,23426
+2023-12-30,Paid Search,Bing Ads (Microsoft Advertising),Persistent 24/7 attitude,51361.76,115079,13136,1572,11.41,3.91,446.32,0
+2023-12-30,Paid Social,LinkedIn Ads,Q1 LinkedIn Enterprise Outreach,8855.0,69966,1610,106,2.3,5.5,126.56,7012
+2023-12-30,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,51365,4025,397,7.84,0.0,0.0,0
+2023-12-31,Programmatic,Amazon Ad Server (Sizmek),Cross-platform static hierarchy,60042.5,152562,16450,1610,10.78,3.65,393.56,13335
+2023-12-31,Paid Search,Google Search Ads 360,Integrated dedicated contingency,82350.18,174383,20691,2003,11.87,3.98,472.24,0
+2023-12-31,Paid Social,LinkedIn Ads,Facebook B2B Decision Makers,15585.38,73724,2963,172,4.02,5.26,211.4,13092
+2023-12-31,Organic,Google Display & Video 360,Content Syndication — Organic,0.0,64820,5215,498,8.05,0.0,0.0,0

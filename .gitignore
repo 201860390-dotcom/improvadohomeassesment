@@ -1,0 +1,7 @@
+__pycache__/
+.agents/
+.gemini/
+.env
+.venv/
+venv/
+*.pyc

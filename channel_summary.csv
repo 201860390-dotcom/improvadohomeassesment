@@ -1,0 +1,5 @@
+channel,impressions_total,clicks_total,spend_total,conversions_total,ctr_avg_pct,cpm_avg,cpc_avg,conv_rate_pct
+Organic,26512457,2265637,0.0,222925,8.55,0.0,0.0,9.84
+Paid Search,65445429,6823750,28824072.46,712245,10.43,440.43,4.22,10.44
+Paid Social,35262573,1304463,7145605.96,85153,3.7,202.64,5.48,6.53
+Programmatic,78753548,7836900,29686960.6,720942,9.95,376.96,3.79,9.2
